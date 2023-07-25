@@ -219,22 +219,22 @@ http://abcabc123.ml:4022/udp/239.49.9.7:6000
 https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="" group-title="中国教育",CETV4 
 
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="中国教育",中国教育-1
 http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="中国教育",中国教育-1
 https://txycsbl.centv.cn/zb/0628cetv1.m3u8
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="中国教育",中国教育-1
 http://abcabc123.ml:4022/udp/239.49.8.115:8000
 
-#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育-2
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="中国教育",中国教育-2
 http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育-2
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="中国教育",中国教育-2
 http://abcabc123.ml:4022/udp/239.49.1.55:6000
 
-#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="其他",中国教育-3
+#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="中国教育",中国教育-3
 http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育-4 
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="中国教育",中国教育-4 
 http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1,tvg-id="TVBRICS" tvg-name="TVBRICS" tvg-logo="https://epg.112114.xyz/logo/TVBRICS.png" group-title="其他",TVBRICS中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
@@ -499,8 +499,6 @@ https://cntv.sbs/live?auth=2307100804&id=ssws
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线---------------------------------------------------------------
-#EXTINF:-1,tvg-id="VTC13" tvg-name="VTC13[3840*2160]" tvg-logo="https://epg.112114.xyz/logo/VTC13.png" group-title="4K",VTC13
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K
 http://203.205.137.125/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
