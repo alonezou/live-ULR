@@ -215,9 +215,8 @@ http://abcabc123.ml:4022/udp/239.49.8.32:8000
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视",CCTV-高尔夫网球
 http://abcabc123.ml:4022/udp/239.49.9.7:6000
 
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="" group-title="中国教育",CETV4 
-https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="" group-title="中国教育",CETV4 
+
+
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="中国教育",中国教育-1
 http://txycetvbl.centv.cn/cetv1/ypd.m3u8
@@ -236,6 +235,8 @@ http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="中国教育",中国教育-4 
 http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="中国教育",中国教育-4 
+https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
 #EXTINF:-1,tvg-id="TVBRICS" tvg-name="TVBRICS" tvg-logo="https://epg.112114.xyz/logo/TVBRICS.png" group-title="其他",TVBRICS中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="TVBRICS" tvg-name="TVBRICS" tvg-logo="https://epg.112114.xyz/logo/TVBRICS.png" group-title="其他",TVBRICS 英文
@@ -243,9 +244,9 @@ http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="其他",外国音乐
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1,tvg-id="時裝頻道" tvg-name="時裝頻道" tvg-logo="https://epg.112114.xyz/logo/時裝頻道.png" group-title="其他",時裝頻道
-http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
+
 #EXTINF:-1,tvg-id="1950电影" tvg-name="1950电影" tvg-logo="" group-title="其他",1950电影
-http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+
 #EXTINF:-1,tvg-id="1950电影" tvg-name="1950电影" tvg-logo="" group-title="其他",1950电影
 http://img.ye23.win/s.php?u=10DPD19C
 
