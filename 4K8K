@@ -110,22 +110,17 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 
 #EXTINF:-1,tvg-id="CCTV4K.备用" tvg-name="CCTV4K.备用" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.备用.png" group-title="4K/8K-IPV6",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-
-
 #EXTINF:-1,tvg-id="CCTV4K.备用" tvg-name="CCTV4K.备用" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.备用.png" group-title="4K/8K-IPV6",CCTV4K•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="CCTV 8K" tvg-name="CCTV 8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV6",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV6",CCTV8K
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="8K测试" tvg-name="8K测试" tvg-logo="https://epg.112114.xyz/logo/8K测试.png" group-title="4K/8K-IPV6",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="8K测试" tvg-name="8K测试" tvg-logo="https://epg.112114.xyz/logo/8K测试.png" group-title="4K/8K-IPV6",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV6",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="4K/8K-IPV6",8K
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K/8K-IPV6",SiTV欢笑剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3653121614_498192706/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1674379473&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K/8K-IPV6",SiTV欢笑剧场
@@ -141,21 +136,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱上4K " tvg-name="爱上4K " tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K/8K-IPV6",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏移动8K测试.png" group-title="4K/8K-IPV6",江苏移动8K测试
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="4K/8K-IPV6",江苏移动8K测试
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+
 #EXTINF:-1,tvg-id="江苏移动4K影视" tvg-name="江苏移动4K影视" tvg-logo="https://epg.112114.xyz/logo/江苏移动4K影视.png" group-title="4K/8K-IPV6",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K/8K-IPV6",河南4K
-http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1,tvg-id="河南4K" tvg-name="河南4K" tvg-logo="https://epg.112114.xyz/logo/河南4K.png" group-title="河南",河南4K
 
-
-#EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K/8K-IPV6",芒果娱乐4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="未知4K" tvg-name="未知4K" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="4K/8K-IPV6",未知4K
-http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1678666137&from=40&popid=40&hms_devid=2153&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K/8K-IPV6",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3027752919_-1874130277/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1674378848&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K/8K-IPV6",纯享4K
@@ -170,8 +154,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-213502209
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K/8K-IPV6",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4K/8K-IPV6",纯享4K
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K/8K-IPV6",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K/8K-IPV6",纯享4K
