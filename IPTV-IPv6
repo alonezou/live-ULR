@@ -535,11 +535,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212255
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://epg.112114.xyz/logo/直播中国.png" group-title="其他[线路二]",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,tvg-id="CCTV4K.备用" tvg-name="CCTV4K.备用" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.备用.png" group-title="央视[线路二]",CCTV4K.备用
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视[线路二]",CCTV4K.备用
 http://r.jdshipin.com/krMB5
-#EXTINF:-1,tvg-id="CCTV4K.备用" tvg-name="CCTV4K.备用" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.备用.png" group-title="央视[线路二]",CCTV4K.备用
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视[线路二]",CCTV4K.备用
 http://lu1.cc/itv/php/cctv4k.php
-#EXTINF:-1,tvg-id="CCTV4K.备用" tvg-name="CCTV4K.备用" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.备用.png" group-title="央视[线路二]",CCTV4K.备用
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视[线路二]",CCTV4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视[线路二]",CCTV16-4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -549,7 +549,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1,tvg-id="4K修复 7M2160HEVC" tvg-name="4K修复 7M2160HEVC" tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="其他[线路二]",4K修复 7M2160HEVC
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,tvg-id="爱上4K.备用" tvg-name="爱上4K.备用" tvg-logo="https://epg.112114.xyz/logo/爱上4K.备用.png" group-title="其他[线路二]",爱上4K.备用
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他[线路二]",爱上4K.备用
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="江苏移动8K测试" tvg-name="江苏移动8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏移动8K测试.png" group-title="江苏[线路二]",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
@@ -613,7 +613,7 @@ http://lu1.cc/itv/gdtv/gdtv.php?id=gdys
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1,tvg-id="广州综合.720" tvg-name="广州综合.720" tvg-logo="https://epg.112114.xyz/logo/广州综合..png" group-title="其他[线路二]",广州综合.720
 https://justsometime.gztv.com/sec/zhonghe.m3u8
-#EXTINF:-1,tvg-id="广州南国都市.1080P.备用" tvg-name="广州南国都市.1080P.备用" tvg-logo="https://epg.112114.xyz/logo/广州南国都市..备用.png" group-title="其他[线路二]",广州南国都市.1080P.备用
+#EXTINF:-1,tvg-id="广州南国都市.1080P" tvg-name="广州南国都市.1080P" tvg-logo="https://epg.112114.xyz/logo/广州南国都市.png" group-title="其他[线路二]",广州南国都市.1080P.备用
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="其他[线路二]",广州影视.720
 https://justsometime.gztv.com/sec/yingshi.m3u8
@@ -639,9 +639,9 @@ http://r.jdshipin.com/62WM7
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台[线路二]",明珠台.备用
 http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1,tvg-id="有线新闻台.720.备用" tvg-name="有线新闻台.720.备用" tvg-logo="https://epg.112114.xyz/logo/有线新闻台..备用.png" group-title="港澳台[线路二]",有线新闻台.720.备用
+#EXTINF:-1,tvg-id="有线新闻台.720" tvg-name="有线新闻台.720" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="港澳台[线路二]",有线新闻台.720.备用
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1,tvg-id="有线财经资讯台.720.备用" tvg-name="有线财经资讯台.720.备用" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台..备用.png" group-title="港澳台[线路二]",有线财经资讯台.720.备用
+#EXTINF:-1,tvg-id="有线财经资讯台.720" tvg-name="有线财经资讯台.720" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="港澳台[线路二]",有线财经资讯台.720.备用
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1,tvg-id="香港卫视.576" tvg-name="香港卫视.576" tvg-logo="https://epg.112114.xyz/logo/香港卫视..png" group-title="港澳台[线路二]",香港卫视.576
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
