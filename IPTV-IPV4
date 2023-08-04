@@ -1691,7 +1691,7 @@ http://sc2022.stream-link.org/tv2306.php?id=c03
 #EXTINF:-1,tvg-id="最爱电影台" tvg-name="最爱电影台" tvg-logo="https://epg.112114.xyz/logo/最爱电影台.png" group-title="港澳台",最爱电影台
 
 #EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="港澳台",CINEMAX
-http://211.72.65.236:8559/.m3u8
+http://103.112.191.9:880/LAOSAT1031.m3u8
 
 #EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY电影.png" group-title="港澳台",CatchPlay
 
@@ -1729,8 +1729,8 @@ http://hplay.xyz/aqqtamco/vk3e30K4Yi/34871
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="港澳台", CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
-#EXTINF:-1 tvg-logo="" group-title="港澳台", WW大赛
-http://111.62.156.15/tx.flv.huya.com/src/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.flv?wsSecret=0a935a3c5d9bcd1c18fb36c44284c7a9&wsTime=6283a6ba&u=0&seqid=16527086663696960&ctype=tars_mp&txyp=o%3Ad2%3B&fs=bgct&t=102
+#EXTINF:-1 tvg-logo="" group-title="港澳台", WWE
+http://103.112.191.9:880/LAOSAT1030.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳台", Sexy K-Pop
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港澳台", Sexy K-Pop
@@ -1743,6 +1743,8 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1,tvg-id="时尚台FTV" tvg-name="时尚台" tvg-logo="https://epg.112114.xyz/logo/时尚台FTV.png" group-title="港澳台",时尚台FTV
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1,tvg-id="时尚台FTV" tvg-name="时尚台" tvg-logo="https://epg.112114.xyz/logo/时尚台FTV.png" group-title="港澳台",时尚台FTV
+http://103.112.191.9:880/LAOSAT1088.m3u8
 
 
 #EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="港澳台",ELEVEN1
@@ -3088,8 +3090,8 @@ http://1.245.74.5:1935/live/tv/.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="韩国",Arirang[1280*720]
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-#EXTINF:-1 group-title="韩国",CGNTV[1280*720]
-
+#EXTINF:-1 group-title="韩国",KBS
+http://103.112.191.9:880/LAOSAT1036.m3u8
 #EXTINF:-1 group-title="韩国",Edaily TV[1280*720]
 
 #EXTINF:-1 group-title="韩国",KCTV 광주 CH05[1280*720]
@@ -3130,5 +3132,122 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="日本",Shop Channel[1280*720]
 https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTM3U
+#EXTINF:-1,tvg-id="JKN[785*576]" tvg-name="JKN[785*576]" tvg-logo="https://epg.112114.xyz/logo/JKN.png" group-title="酒店",JKN[785*576]
+http://103.112.191.9:880/LAOSAT1003.m3u8
+#EXTINF:-1,tvg-id="True 4U[785*576]" tvg-name="True 4U[785*576]" tvg-logo="https://epg.112114.xyz/logo/TRUE4U.png" group-title="酒店",True 4U[785*576]
+http://103.112.191.9:880/LAOSAT1002.m3u8
+#EXTINF:-1,tvg-id="PPTV[1047*576]" tvg-name="PPTV[1047*576]" tvg-logo="https://epg.112114.xyz/logo/PPTV.png" group-title="酒店"",PPTV[1047*576]
+http://103.112.191.9:880/LAOSAT1004.m3u8
+#EXTINF:-1,tvg-id="Film ASIA[785*576]" tvg-name="Film ASIA[785*576]" tvg-logo="https://epg.112114.xyz/logo/FILMASIA.png" group-title="酒店",Film ASIA[785*576]
+http://103.112.191.9:880/LAOSAT1005.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="酒店",凤凰中文[1920*1080]
+http://103.112.191.9:880/LAOSAT1015.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="酒店",东森洋片[1280*720]
+http://103.112.191.9:880/LAOSAT1018.m3u8
+#EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="酒店",东森电影[1280*720]
+http://103.112.191.9:880/LAOSAT1017.m3u8
+#EXTINF:-1,tvg-id="东森洋片台" tvg-name="东森洋片台" tvg-logo="https://epg.112114.xyz/logo/东森洋片台.png" group-title="酒店",东森洋片[1280*720]
+http://103.112.191.9:880/LAOSAT1018.m3u8
+#EXTINF:-1,tvg-id="TN 2[1280*720]" tvg-name="TN 2[1280*720]" tvg-logo="https://epg.112114.xyz/logo/TN2.png" group-title="酒店",TN 2[1280*720]
+http://103.112.191.9:880/LAOSAT1019.m3u8
+#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="酒店",TS HD[1280*720]
+http://103.112.191.9:880/LAOSAT1020.m3u8
+#EXTINF:-1,tvg-id="TN 24[785*576]" tvg-name="TN 24[785*576]" tvg-logo="https://epg.112114.xyz/logo/TN24.png" group-title="酒店",TN 24[785*576]
+http://103.112.191.9:880/LAOSAT1022.m3u8
+#EXTINF:-1,tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="酒店",ALJ[1920*1080]
+http://103.112.191.9:880/LAOSAT1021.m3u8
+#EXTINF:-1,tvg-id="Thair HD[1047*576]" tvg-name="Thair HD[1047*576]" tvg-logo="https://epg.112114.xyz/logo/THAIR.png" group-title="酒店",Thair HD[1047*576]
+http://103.112.191.9:880/LAOSAT1023.m3u8
+#EXTINF:-1,tvg-id="News 1[1047*576]" tvg-name="News 1[1047*576]" tvg-logo="https://epg.112114.xyz/logo/NEWS1.png" group-title="酒店",News 1[1047*576]
+http://103.112.191.9:880/LAOSAT1024.m3u8
+#EXTINF:-1,tvg-id="T Sport[785*576]" tvg-name="T Sport[785*576]" tvg-logo="https://epg.112114.xyz/logo/TSPORT.png" group-title="酒店",T Sport[785*576]
+http://103.112.191.9:880/LAOSAT1025.m3u8
+#EXTINF:-1,tvg-id="TP 1[1280*720]" tvg-name="TP 1[1280*720]" tvg-logo="https://epg.112114.xyz/logo/TP1.png" group-title="酒店",TP 1[1280*720]
+http://103.112.191.9:880/LAOSAT1026.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="酒店",TXZ[785*576]
+http://103.112.191.9:880/LAOSAT1028.m3u8
+#EXTINF:-1,tvg-id="TP 2[1920*1080]" tvg-name="TP 2[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/TP2.png" group-title="酒店",TP 2[1920*1080]
+http://103.112.191.9:880/LAOSAT1027.m3u8
+#EXTINF:-1,tvg-id="C movie[1280*720]" tvg-name="C movie[1280*720]" tvg-logo="https://epg.112114.xyz/logo/CMOVIE.png" group-title="酒店",C movie[1280*720]
+http://103.112.191.9:880/LAOSAT1029.m3u8
+#EXTINF:-1,tvg-id="TV5MONDE" tvg-name="TV5MONDE" tvg-logo="https://epg.112114.xyz/logo/TV5MONDE.png" group-title="酒店",TV5 monde[785*576]
+http://103.112.191.9:880/LAOSAT1032.m3u8
+#EXTINF:-1,tvg-id="AP Animal[1280*720]" tvg-name="AP Animal[1280*720]" tvg-logo="https://epg.112114.xyz/logo/APANIMAL.png" group-title="酒店",AP Animal[1280*720]
+http://103.112.191.9:880/LAOSAT1034.m3u8
+#EXTINF:-1,tvg-id="Amarin[1920*1080]" tvg-name="Amarin[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/AMARIN.png" group-title="酒店",Amarin[1920*1080]
+http://103.112.191.9:880/LAOSAT1035.m3u8
+#EXTINF:-1,tvg-id="Russia Tod[1047*576]" tvg-name="Russia Tod[1047*576]" tvg-logo="https://epg.112114.xyz/logo/RUSSIATOD.png" group-title="酒店",Russia Tod[1047*576]
+http://103.112.191.9:880/LAOSAT1037.m3u8
+#EXTINF:-1,tvg-id="LNVT 1[785*576]" tvg-name="LNVT 1[785*576]" tvg-logo="https://epg.112114.xyz/logo/LNVT1.png" group-title="酒店",LNVT 1[785*576]
+http://103.112.191.9:880/LAOSAT1038.m3u8
+#EXTINF:-1,tvg-id="LNTV 3[1920*1080]" tvg-name="LNTV 3[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/LNTV3.png" group-title="酒店",LNTV 3[1920*1080]
+http://103.112.191.9:880/LAOSAT1039.m3u8
+#EXTINF:-1,tvg-id="LAO PSTV[785*576]" tvg-name="LAO PSTV[785*576]" tvg-logo="https://epg.112114.xyz/logo/LAOPSTV.png" group-title="酒店",LAO PSTV[785*576]
+http://103.112.191.9:880/LAOSAT1040.m3u8
+#EXTINF:-1,tvg-id="Lao ESTV[785*576]" tvg-name="Lao ESTV[785*576]" tvg-logo="https://epg.112114.xyz/logo/LAOESTV.png" group-title="酒店",Lao ESTV[785*576]
+http://103.112.191.9:880/LAOSAT1042.m3u8
+#EXTINF:-1,tvg-id="LAO STAR[1920*1080]" tvg-name="LAO STAR[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/LAOSTAR.png" group-title="酒店",LAO STAR[1920*1080]
+http://103.112.191.9:880/LAOSAT1041.m3u8
+#EXTINF:-1,tvg-id="Vientiane[1920*1080]" tvg-name="Vientiane[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/VIENTIANE.png" group-title="酒店"",Vientiane[1920*1080]
+http://103.112.191.9:880/LAOSAT1043.m3u8
+#EXTINF:-1,tvg-id="LAOSAT TV[785*576]" tvg-name="LAOSAT TV[785*576]" tvg-logo="https://epg.112114.xyz/logo/LAOSATTV.png" group-title="酒店",LAOSAT TV[785*576]
+http://103.112.191.9:880/LAOSAT1044.m3u8
+#EXTINF:-1,tvg-id="Thai 7[1920*1080]" tvg-name="Thai 7[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/THAI7.png" group-title="酒店",Thai 7[1920*1080]
+http://103.112.191.9:880/LAOSAT1046.m3u8
+#EXTINF:-1,tvg-id="Thai 3[1920*1080]" tvg-name="Thai 3[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/THAI3.png" group-title="酒店",Thai 3[1920*1080]
+http://103.112.191.9:880/LAOSAT1045.m3u8
+#EXTINF:-1,tvg-id="Thai 9[785*576]" tvg-name="Thai 9[785*576]" tvg-logo="https://epg.112114.xyz/logo/THAI9.png" group-title="酒店",Thai 9[785*576]
+http://103.112.191.9:880/LAOSAT1047.m3u8
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="酒店",ONE[1920*1080]
+http://103.112.191.9:880/LAOSAT1048.m3u8
+#EXTINF:-1,tvg-id="GMM 25[785*576]" tvg-name="GMM 25[785*576]" tvg-logo="https://epg.112114.xyz/logo/GMM25.png" group-title="酒店",GMM 25[785*576]
+http://103.112.191.9:880/LAOSAT1049.m3u8
+#EXTINF:-1,tvg-id="Workpoint[785*576]" tvg-name="Workpoint[785*576]" tvg-logo="https://epg.112114.xyz/logo/WORKPOINT.png" group-title="酒店",Workpoint[785*576]
+http://103.112.191.9:880/LAOSAT1050.m3u8
+#EXTINF:-1,tvg-id="MO 29[785*576]" tvg-name="MO 29[785*576]" tvg-logo="https://epg.112114.xyz/logo/MO29.png" group-title="酒店",MO 29[785*576]
+http://103.112.191.9:880/LAOSAT1051.m3u8
+#EXTINF:-1,tvg-id="B sport1[1920*1080]" tvg-name="B sport1[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/BSPORT1.png" group-title="酒店",B sport1[1920*1080]
+http://103.112.191.9:880/LAOSAT1052.m3u8
+#EXTINF:-1,tvg-id="T HD 2[1920*1080]" tvg-name="T HD 2[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/THD2.png" group-title="酒店",T HD 2[1920*1080]
+http://103.112.191.9:880/LAOSAT1053.m3u8
+#EXTINF:-1,tvg-id="Thai 5[1920*1080]" tvg-name="Thai 5[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/THAI5.png" group-title="酒店",Thai 5[1920*1080]
+http://103.112.191.9:880/LAOSAT1055.m3u8
+#EXTINF:-1,tvg-id="T HD 3[1280*720]" tvg-name="T HD 3[1280*720]" tvg-logo="https://epg.112114.xyz/logo/THD3.png" group-title="酒店",T HD 3[1280*720]
+http://103.112.191.9:880/LAOSAT1054.m3u8
+#EXTINF:-1,tvg-id="PBS[1047*576]" tvg-name="PBS[1047*576]" tvg-logo="https://epg.112114.xyz/logo/PBS.png" group-title="酒店",PBS[1047*576]
+http://103.112.191.9:880/LAOSAT1056.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="酒店",凤凰资讯[1920*1080]
+http://103.112.191.9:880/LAOSAT1068.m3u8
+#EXTINF:-1,tvg-id="Aomen Movi[1920*1080]" tvg-name="Aomen Movi[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/AOMENMOVI.png" group-title="酒店",Aomen Movi[1920*1080]
+http://103.112.191.9:880/LAOSAT1069.m3u8
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="酒店",DW[1920*1080]
+http://103.112.191.9:880/LAOSAT1072.m3u8
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="酒店",NHK[1920*1080]
+http://103.112.191.9:880/LAOSAT1071.m3u8
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="酒店",Euro news[1047*576]
+http://103.112.191.9:880/LAOSAT1073.m3u8
+#EXTINF:-1,tvg-id="LATV[1920*1080]" tvg-name="LATV[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/LATV.png" group-title="酒店",LATV[1920*1080]
+http://103.112.191.9:880/LAOSAT1076.m3u8
+#EXTINF:-1,tvg-id="B sport2[1920*1080]" tvg-name="B sport2[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/BSPORT2.png" group-title="酒店",B sport2[1920*1080]
+http://103.112.191.9:880/LAOSAT1078.m3u8
+#EXTINF:-1,tvg-id="T Film HD[1280*720]" tvg-name="T Film HD[1280*720]" tvg-logo="https://epg.112114.xyz/logo/TFILM.png" group-title="酒店",T Film HD[1280*720]
+http://103.112.191.9:880/LAOSAT1079.m3u8
+#EXTINF:-1,tvg-id="星卫电影台[1280*720]" tvg-name="星卫电影台[1280*720]" tvg-logo="https://epg.112114.xyz/logo/星卫电影台.png" group-title="酒店",星卫电影台[1280*720]
+http://103.112.191.9:880/LAOSAT1082.m3u8
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="酒店",龙祥时代[1920*1080]
+http://103.112.191.9:880/LAOSAT1084.m3u8
+#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="酒店",卫视电影台[1280*720]
+http://103.112.191.9:880/LAOSAT1085.m3u8
+#EXTINF:-1,tvg-id="CNBCHONGKONG" tvg-name="CNBCHONGKONG" tvg-logo="https://epg.112114.xyz/logo/CNBCHONGKONG.png" group-title="酒店",CNBC[785*576]
+http://103.112.191.9:880/LAOSAT1086.m3u8
+#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="酒店",CNN[1920*1080]
+http://103.112.191.9:880/LAOSAT1087.m3u8
+#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="酒店",HBO[1920*1080]
+http://103.112.191.9:880/LAOSAT1089.m3u8
+#EXTINF:-1,tvg-id="Cartoon Ne[1280*720]" tvg-name="Cartoon Ne[1280*720]" tvg-logo="https://epg.112114.xyz/logo/CARTOONNE.png" group-title="酒店",Cartoon Ne[1280*720]
+http://103.112.191.9:880/LAOSAT1090.m3u8
+
 
 
