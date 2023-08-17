@@ -211,8 +211,6 @@ http://www.chengxueguo.cn:8888/udp/233.50.200.91:5140
 http://www.chengxueguo.cn:8888/udp/233.50.201.15:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://www.chengxueguo.cn:8888/udp/233.50.201.35:5140
-
-
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
 http://www.chengxueguo.cn:8888/udp/233.50.201.75:5140
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
