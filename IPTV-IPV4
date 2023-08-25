@@ -779,6 +779,25 @@ http://player2.juyun.tv/camera/80238159.m3u8
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="江西",江西卫视
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv1.m3u8
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv2.m3u8
+#EXTINF:-1,tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv3_hd.m3u8
+#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv4.m3u8
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv5.m3u8
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv6.m3u8
+#EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv7.m3u8
+#EXTINF:-1,tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://epg.112114.xyz/logo/江西移动.png" group-title="江西",江西移动
+http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv8.m3u8
+#EXTINF:-1,tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://epg.112114.xyz/logo/风尚购物.png" group-title="其他",风尚购物
+http://server96553e-live.jxtvcn.com.cn/showto/tv_fsgw.m3u8
+
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
