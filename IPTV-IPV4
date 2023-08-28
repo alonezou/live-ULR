@@ -1461,7 +1461,8 @@ https://us.dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&
 
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS财经" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="港澳台",TVBS财经
 
-
+#EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
+http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1015
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
 https://us.dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&token=c0vzuc7wqkzk
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
@@ -1492,6 +1493,8 @@ http://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="港澳台",中天亚洲
 http://162.19.247.76:22222/live/ztyz/index.m3u8
 
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
+http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1222
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
 http://sc2022.stream-link.org/tv2306.php?id=t07
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台台湾台
