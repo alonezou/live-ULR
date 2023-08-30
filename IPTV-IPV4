@@ -1189,6 +1189,8 @@ http://sc2022.stream-link.org/tv2306.php?id=h02
 #EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="hhttp://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.pngB" group-title="港澳台",TVB华丽台
 
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",TVB明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",TVB明珠台
 https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 http://radius.8866.org:800/hls/84/index.m3u8
