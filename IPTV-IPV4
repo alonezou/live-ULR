@@ -661,6 +661,22 @@ http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
 http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 
+#EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
+#EXTM3U
+#EXTINF:-1,tvg-id="北京IPTV淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘精彩.png" group-title="北京",北京IPTV淘精彩
+http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
+#EXTINF:-1,tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘娱乐.png" group-title="北京",北京IPTV淘娱乐
+http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+#EXTINF:-1,tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘剧场.png" group-title="北京",北京IPTV淘剧场
+http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+#EXTINF:-1,tvg-id="北京IPTV淘Baby" tvg-name="北京IPTV淘Baby" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘BABY.png" group-title="北京",北京IPTV淘Baby
+http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+#EXTINF:-1,tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘电影.png" group-title="北京",北京IPTV淘电影
+http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+#EXTINF:-1,tvg-id="北京IPTV 萌宠TV" tvg-name="北京IPTV 萌宠TV" tvg-logo="https://epg.112114.xyz/logo/北京IPTV萌宠TV.png" group-title="北京",北京IPTV 萌宠TV
+http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+
+
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
