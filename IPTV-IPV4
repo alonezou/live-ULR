@@ -1221,22 +1221,21 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://119.123.214.235:9000/bysid/1
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370ebeda47a18871144.flv
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://60.208.16.27:1505/gudou.php?id=1350_4500
+http://r.jdshipin.com/n90gt
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://sc2022.stream-link.org/tv2306.php?id=h01
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://sc2022.stream-link.org/tv2306.php?id=h02
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
@@ -1265,7 +1264,7 @@ http://50.7.220.74:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=1922
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 http://60.208.16.27:1505/gudou.php?id=1351_4500
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=3
+http://119.123.214.235:9001/bysid/2
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",TVB明珠台
 https://live.astradamy.com/tvbpearl/index.m3u8
 
@@ -1375,7 +1374,7 @@ http://r.jdshipin.com/Nr5jq
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/TVB鸡儿台.png" group-title="港澳台",J2
 http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=5
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
-http://sc2022.stream-link.org/tv2306.php?id=h03
+http://119.123.214.235:9001/bysid/82
 
 
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
@@ -1395,12 +1394,6 @@ https://dispatchnew.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&
 http://radius.8866.org:800/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://rb.gy/po9v07" group-title="港澳台",ViuTV 6 
 http://119.123.214.235:9000/bysid/96
-
-明珠台,http://119.123.214.235:9001/bysid/2
-J2台,http://119.123.214.235:9001/bysid/82
-無綫新聞台,
-無綫財經 體育 資訊台,
-
 
 
 
