@@ -663,6 +663,25 @@ http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="求索系列",求索科学
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="求索系列",求索纪录
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="求索系列",求索生活
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="求索系列",求索动物
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="求索系列",求索科学
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="求索系列",求索纪录
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="求索系列",求索生活
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="求索系列",求索动物
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+
+
+#EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 #EXTM3U
 #EXTINF:-1,tvg-id="北京IPTV淘精彩" tvg-name="北京IPTV淘精彩" tvg-logo="https://epg.112114.xyz/logo/北京IPTV淘精彩.png" group-title="北京",北京IPTV淘精彩
 http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
@@ -1484,6 +1503,8 @@ http://107.167.12.58:27347/livehttpplay?channel_id=20126
 
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="港澳台",Baby TV Eng HD
 
+#EXTINF:-1,tvg-id="WWE" tvg-name="WWE" tvg-logo="https://epg.112114.xyz/logo/WWE.png" group-title="港澳台",WWE
+http://darg.site:2082/Gabi87/Gabi87/391741
 
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/macault.png" group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
@@ -2493,6 +2514,24 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="日本",Shop Channel[1280*720]
 https://stream3.shopch.jp/HLS/master.m3u8
+
+
+#EXTINF:-1,tvg-id="华文一套" tvg-name="华文一套" tvg-logo="https://epg.112114.xyz/logo/华文一套.png" group-title="欧洲华文",华文一套
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1,tvg-id="华文二套" tvg-name="华文二套" tvg-logo="https://epg.112114.xyz/logo/华文二套.png" group-title="欧洲华文",华文二套
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1,tvg-id="华文三套" tvg-name="华文三套" tvg-logo="https://epg.112114.xyz/logo/华文三套.png" group-title="欧洲华文",华文三套
+http://vvlive.eztv.vip/huawen3/huawen3.m3u8?auth_key=1662526194-0-0-bd423d5873e9ca964a4455f398d608b2
+#EXTINF:-1,tvg-id="华文四套" tvg-name="华文四套" tvg-logo="https://epg.112114.xyz/logo/华文四套.png" group-title="欧洲华文",华文四套
+http://vvlive.eztv.vip/huawen4/huawen4.m3u8?auth_key=1662526280-0-0-7802d0701f6974b3db6f0d5c09542402
+#EXTINF:-1,tvg-id="华文五套" tvg-name="华文五套" tvg-logo="https://epg.112114.xyz/logo/华文五套.png" group-title="欧洲华文",华文五套
+https://livees.cgtn.com/1000e/prog_index.m3u8 
+#EXTINF:-1,tvg-id="华文六套" tvg-name="华文六套" tvg-logo="https://epg.112114.xyz/logo/华文六套.png" group-title="欧洲华文",华文六套
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+#EXTINF:-1,tvg-id="华文教育" tvg-name="华文教育" tvg-logo="https://epg.112114.xyz/logo/华文教育.png" group-title="欧洲华文",华文教育
+http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
+#EXTINF:-1,tvg-id="华文八套" tvg-name="华文八套" tvg-logo="https://epg.112114.xyz/logo/华文八套.png" group-title="欧洲华文",华文八套
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 
 
