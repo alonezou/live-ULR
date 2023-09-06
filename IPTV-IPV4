@@ -2534,6 +2534,91 @@ http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 
+#EXTM3U
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="4gtv",民视台湾台
+http://8.210.88.135/444/4g01.php?p=3
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="4gtv",民视台
+http://8.210.88.135/1023/444.php?p=3
+#EXTINF:-1,tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://epg.112114.xyz/logo/民视综艺台.png" group-title="4gtv",民视综艺台
+http://8.210.88.135/444/4g04.php?p=3
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="4gtv",中天新闻台
+http://8.210.88.135/444/4g09.php?p=3
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="4gtv",非凡新闻台
+http://8.210.88.135/444/4g10.php?p=3
+#EXTINF:-1,tvg-id="影迷数位电影" tvg-name="影迷数位电影" tvg-logo="https://epg.112114.xyz/logo/影迷数位电影.png" group-title="4gtv",影迷数位电影台
+http://8.210.88.135/444/4g11.php?p=3
+#EXTINF:-1,tvg-id="K-POP" tvg-name="K-POP" tvg-logo="https://epg.112114.xyz/logo/KPOP.png" group-title="4gtv",K-POP
+http://8.210.88.135/444/4g14.php?p=3
+#EXTINF:-1,tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="https://epg.112114.xyz/logo/韩国娱乐台KMTV.png" group-title="4gtv",韩国娱乐台
+http://8.210.88.135/444/4g16.php?p=3
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="4gtv",Da vinci
+http://8.210.88.135/444/4g18.php?p=3
+#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.112114.xyz/logo/八大精彩台.png" group-title="4gtv",八大精彩台
+http://8.210.88.135/444/4g34.php?p=3
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="4gtv",中视台
+http://8.210.88.135/444/4g40.php?p=3
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="4gtv",华视台
+http://8.210.88.135/444/4g41.php?p=3
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="4gtv",公视戏剧台
+http://8.210.88.135/444/4g42.php?p=3
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="4gtv",靖天卡通台
+http://8.210.88.135/444/4g44.php?p=3
+#EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/靖洋戏剧台.png" group-title="4gtv",靖洋戏剧台
+http://8.210.88.135/444/4g45.php?p=3
+#EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.112114.xyz/logo/靖天综合台.png" group-title="4gtv",靖天综合台
+http://8.210.88.135/444/4g46.php?p=3
+#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="4gtv",靖天日本台
+http://8.210.88.135/444/4g47.php?p=3
+#EXTINF:-1,tvg-id="非凡商业台" tvg-name="非凡商业台" tvg-logo="https://epg.112114.xyz/logo/非凡商业台.png" group-title="4gtv",非凡商业台
+http://8.210.88.135/444/4g48.php?p=3
+#EXTINF:-1,tvg-id="采昌台" tvg-name="采昌台" tvg-logo="https://epg.112114.xyz/logo/采昌台.png" group-title="4gtv",采昌台
+http://8.210.88.135/444/4g49.php?p=3
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="4gtv",台视新闻台
+http://8.210.88.135/444/4g51.php?p=3
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="4gtv",华视新闻台
+http://8.210.88.135/444/4g52.php?p=3
+#EXTINF:-1,tvg-id="GINX" tvg-name="GINX" tvg-logo="https://epg.112114.xyz/logo/GINX.png" group-title="4gtv",GINX
+http://8.210.88.135/444/4g53.php?p=3
+#EXTINF:-1,tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://epg.112114.xyz/logo/靖天欢乐台.png" group-title="4gtv",靖天欢乐台
+http://8.210.88.135/444/4g54.php?p=3
+#EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.112114.xyz/logo/靖天映画.png" group-title="4gtv",靖天映画台
+http://8.210.88.135/444/4g55.php?p=3
+#EXTINF:-1,tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://epg.112114.xyz/logo/台视财经台.png" group-title="4gtv",台视财经台
+http://8.210.88.135/444/4g56.php?p=3
+#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通台.png" group-title="4gtv",靖洋卡通台
+http://8.210.88.135/444/4g57.php?p=3
+#EXTINF:-1,tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://epg.112114.xyz/logo/靖天戏剧台.png" group-title="4gtv",靖天戏剧台
+http://8.210.88.135/444/4g58.php?p=3
+#EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.112114.xyz/logo/靖天育乐台.png" group-title="4gtv",靖天育乐台
+http://8.210.88.135/444/4g59.php?p=3
+#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.112114.xyz/logo/靖天电影台.png" group-title="4gtv",靖天电影台
+http://8.210.88.135/444/4g61.php?p=3
+#EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.112114.xyz/logo/靖天育乐台.png" group-title="4gtv",靖天育乐台
+http://8.210.88.135/444/4g62.php?p=3
+#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="4gtv",靖天国际台
+http://8.210.88.135/444/4g63.php?p=3
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="4gtv",中视菁彩台
+http://8.210.88.135/444/4g64.php?p=3
+#EXTINF:-1,tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://epg.112114.xyz/logo/靖天资讯台.png" group-title="4gtv",靖天资讯台
+http://8.210.88.135/444/4g65.php?p=3
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="4gtv",台视台
+http://8.210.88.135/444/4g66.php?p=3
+#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="4gtv",TVBS精采台
+http://8.210.88.135/444/4g67.php?p=3
+#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="4gtv",TVBS欢乐台
+http://8.210.88.135/444/4g68.php?p=3
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="4gtv",TVBS新闻台
+http://8.210.88.135/444/4g72.php?p=3
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="4gtv",TVBS
+http://8.210.88.135/444/4g73.php?p=3
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="4gtv",中视新闻台
+http://8.210.88.135/444/4g74.php?p=3
+#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY电影.png" group-title="4gtv",catchplay电影台
+http://8.210.88.135/444/4g76.php?p=3
+#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="4gtv",Arirang
+http://8.210.88.135/444/4g79.php?p=3
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="4gtv",中视经典台
+http://8.210.88.135/444/4g80.php?p=3
 
 
 
