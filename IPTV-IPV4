@@ -1376,7 +1376,7 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30024
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://107.167.12.58:27347/livehttpplay?channel_id=20123
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻 
-http://sc2022.stream-link.org/tv2306.php?id=h04
+http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻 
 http://sc2022.stream-link.org/tv2306.php?id=h06
 
@@ -1401,7 +1401,7 @@ http://sc2022.stream-link.org/tv2306.php?id=h07
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
 http://107.167.12.58:27347/livehttpplay?channel_id=20121
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
-
+http://pl.laiyin.xyz/live/12.m3u8?auth_key=1691841680-0-0-162471992f5e513f2c31583d16cc2ae1
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6155c0c532635.jpg" group-title="港澳台",astor AOD HD
