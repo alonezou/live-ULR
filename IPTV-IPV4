@@ -1569,7 +1569,7 @@ https://cntv.sbs/4gtv?id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="TVBS亚洲台" tvg-name="TVBS亚洲台" tvg-logo="https://epg.112114.xyz/logo/TVBS" group-title="港澳台",TVBS亚洲台
 http://sc2022.stream-link.org/tv2306.php?id=t16
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲台
-
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS精彩台
@@ -1647,7 +1647,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t04
 
 
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-
+http://fsv4.yj011.net/sat/tv111.flv
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
 http://162.19.247.76:22222/live/huashi/index.m3u8
 
@@ -1656,7 +1656,7 @@ http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
 https://cntv.sbs/4gtv?id=4gtv-4gtv040
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
-
+http://fsv4.yj011.net/sat/tv091.flv
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
 
@@ -1685,7 +1685,8 @@ http://sc2022.stream-link.org/tv2306.php?id=t12
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 https://cntv.sbs/4gtv?id=4gtv-4gtv002
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
-http://sc2022.stream-link.org/tv2306.php?id=t17
+http://fsv4.yj011.net/sat/tv051.flv
+
 
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
 https://cntv.sbs/4gtv?id=4gtv-4gtv003
