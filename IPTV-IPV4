@@ -1356,6 +1356,10 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 
+#EXTINF:-1 tvg-id="7122" tvg-name="" tvg-logo="" group-title="港澳台",有线18
+http://fhv8.yj011.net/sat/hk021.flv
+#EXTINF:-1 tvg-id="7122" tvg-name="" tvg-logo="" group-title="港澳台",有线18
+http://fsv4.yj011.net/sat/hk021.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettvpro.live/uploads/allimg/20/1-2002151054390-L.jpg" group-title="港澳台",有线直播新闻台
 
@@ -1585,7 +1589,7 @@ https://fsv4.yj011.net/sat/tv551.flv
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
 http://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
-
+https://lss-oal.line-scdn.net/p/live/hWL_tUph-CWIMYA58ADsaGwBPSAEUPE9dAQ9DbiJmECwmRQZnFRwMfhhxXgMQTUxOAQtPbjVmVjIqShdJKAAMeiFmDS06QUpJKxsbVSIMHjQ7Xi1NIBQzcEcTCxENIRZoHHcZRh9bDgxQYBdqCncXRAZPSQERYUQ8X2JG/1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台 
 
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS财经" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="港澳台",TVBS财经
@@ -1760,6 +1764,8 @@ http://sc2022.stream-link.org/tv2306.php?id=t24
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
 http://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻
+https://lss-oal.line-scdn.net/p/live/hgTFtmGmWOXoVYD5kGTsqAxlPeBkNPH9GIRd2Yjd2PxkwPTZ_MgN2ZgFxbhsJTXxWGAt_dixmZiozSidRMQA8YjhmPxkdQiJGDBsrTTsMLiwiXh1VORQDaF4TOwkUISZwBXcpXgZbPhRJYCdyE3cnXB9PeRkIYXQkRmJ2/1080/chunklist.m3u8
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻
 http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻
 http://211.72.65.236:8540/.m3u8
@@ -1790,12 +1796,6 @@ http://66.181.39.224/ml.php?id=ettvdrama
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="港澳台",东森yoyo
 http://sc2022.stream-link.org/tv2306.php?id=t26
-
-
-
-
-
-
 
 
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="港澳台",公视
