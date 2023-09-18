@@ -91,7 +91,7 @@ https://sc2022.stream-link.org/tv2306.php?id=e07
 https://sc2022.stream-link.org/tv2306.php?id=e08
 #EXTINF:-1 tvg-id="9999" tvg-name="CNA News" tvg-logo="http://www.stream-link.org/tv_logo/cna_news.png" group-title="News",CNA News
 https://sc2022.stream-link.org/tv2306.php?id=e09
-#EXTINF:-1 tvg-id="9999" tvg-name="CNBC Marathon" tvg-logo="http://www.stream-link.org/tv_logo/cnbc_marathon.png" group-title="New",CNBC Marathon
+#EXTINF:-1 tvg-id="9999" tvg-name="CNBC Marathon" tvg-logo="http://www.stream-link.org/tv_logo/cnbc_marathon.png" group-title="News",CNBC Marathon
 https://sc2022.stream-link.org/tv2306.php?id=e10
 #EXTINF:-1 tvg-id="9999" tvg-name="CNN Live" tvg-logo="http://www.stream-link.org/tv_logo/cnn_live.png" group-title="News",CNN Live
 https://sc2022.stream-link.org/tv2306.php?id=e11
