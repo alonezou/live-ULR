@@ -1,4 +1,4 @@
-
+🇨🇳央视,#genre#
 CCTV1-综合频道,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3×tamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 CCTV1-综合频道,https://cntv.sbs/tv?auth=2309081833&id=cctv1
 CCTV1-综合频道,https://angtv.cn/test/bestv.php?id=cctv1hd8m/8000000
@@ -91,6 +91,8 @@ TVBRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TVBRICS 英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 外国音乐,http://51.210.199.19/hls/stream.m3u8
 1950电影,http://img.ye23.win/s.php?u=10DPD19C
+
+🇨🇳卫视,#genre#
 北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250×tamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
 北京卫视,https://cntv.sbs/tv?auth=2309081833&id=bjws
 北京卫视,http://220.231.188.200:8089/hls/33/index.m3u8
@@ -169,7 +171,7 @@ TVBRICS 英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 甘肃卫视,https://cntv.sbs/tv?auth=2309081833&id=gsws
 西藏卫视,https://cntv.sbs/tv?auth=2309081833&id=xzws
 兵团卫视,https://cntv.sbs/tv?auth=2309081833&id=btws
-
+🇨🇳4K/8K,#genre#
 CCTV16_4K,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 CCTV16 4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 欢笑剧场 ,https://cntv.sbs/tv?auth=2309081833&id=hxjc
@@ -187,6 +189,8 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,https://epg.pw/stream/63d67f2a207e6f649f16cdeb7dc9eb190a95de243d54505301b3d4b8861ece58.m3u8
 Love Nature 4K,https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+🇨🇳CHC,#genre#
 CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
@@ -216,12 +220,15 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+
+🇨🇳北京,#genre#
 北京IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
 北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 北京IPTV淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 北京IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 北京IPTV淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 北京IPTV 萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+🇨🇳上海,#genre#
 上海新闻综合,http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 东方卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 上海教育高清,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
@@ -266,6 +273,9 @@ MAX极速汽车,http://183.65.9.200:8888/udp/235.254.197.158:7980
 魅力足球 ,https://cntv.sbs/tv?auth=2309081833&id=mlzq
 求索科学,http://39.135.7.132:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 服装时尚,http://player2.juyun.tv/camera/80238159.m3u8
+
+🇨🇳江西,#genre#
+
 江西卫视,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv1.m3u8
 江西都市,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv2.m3u8
 江西经济生活,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv3_hd.m3u8
@@ -275,6 +285,8 @@ MAX极速汽车,http://183.65.9.200:8888/udp/235.254.197.158:7980
 江西新闻,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv7.m3u8
 江西移动,http://server96553e-live.jxtvcn.com.cn/showto/tv_jxtv8.m3u8
 风尚购物,http://server96553e-live.jxtvcn.com.cn/showto/tv_fsgw.m3u8
+
+🇨🇳广东,#genre#
 深圳卫视,http://220.231.188.200:8089/hls/2/index.m3u8
 深圳都市频道,http://220.231.188.200:8089/hls/20/index.m3u8
 深圳娱乐频道,http://220.231.188.200:8089/hls/23/index.m3u8
@@ -289,6 +301,8 @@ MAX极速汽车,http://183.65.9.200:8888/udp/235.254.197.158:7980
 广东卫视,http://220.231.188.200:8089/hls/28/index.m3u8
 广东影视,http://220.231.188.200:8089/hls/32/index.m3u8
 大湾区卫视,http://220.231.188.200:8089/hls/31/index.m3u8
+
+🇨🇳浙江,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -418,6 +432,8 @@ NBTV-5,http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
 嘉兴新闻综合,http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8?zzhed
 嘉兴文化影视,http://pluslive.jiaxingren.com/whys/sd/live.m3u8
 泰顺新闻综合,http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
+
+🇨🇳🇭🇰🇲🇴🇹🇼港澳台,#genre#
 香港开电视,http://sc2022.stream-link.org/tv2306.php?id=h13
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 凤凰资讯,http://180.143.112.210:8181/tsfile/live/1000_1.m3u8
@@ -667,7 +683,8 @@ History 歷史頻道,https://cntv.sbs/4gtv?id=4gtv-live026
 MTV Live HD 音樂頻道,https://cntv.sbs/4gtv?id=4gtv-live025
 CNBC Asia 財經台,https://cntv.sbs/4gtv?id=4gtv-live130
 Love Nature,https://cntv.sbs/4gtv?id=4gtv-live208
-半岛新闻,#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="英语新闻" 半岛新闻
+
+🇨🇳国际,#genre#
 AL Jazeera FHD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 ArirangTV FHD,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV HD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -730,6 +747,8 @@ Shop Channel[1280*720],https://stream3.shopch.jp/HLS/master.m3u8
 华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 华文教育,http://hatu-video.oss-cn-hangzhou.aliyuncs.com/live-stream/20111114W.m3u8
 华文八套,https://livefr.cgtn.com/1000f/prog_index.m3u8
+
+🇨🇳🇹🇼台湾,#genre#
 民视台湾台,http://8.210.88.135/444/4g01.php?p=3
 民视台,http://8.210.88.135/1023/444.php?p=3
 民视综艺台,http://8.210.88.135/444/4g04.php?p=3
