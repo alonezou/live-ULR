@@ -482,12 +482,24 @@ NBTV-5,http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
+翡翠台,http://103.45.68.47/gy/gy960/xsj.php?id=feicui
+千禧经典,http://103.45.68.47/gy/gy960/xsj.php?id=tvb-classic
+娱乐新闻,http://103.45.68.47/gy/gy960/xsj.php?id=TVB ylxw
+粤语片,http://103.45.68.47/gy/gy960/xsj.php?id=tvb-yueyu
+天映,http://103.45.68.47/gy/gy960/xsj.php?id=celestial
+天映经典,http://103.45.68.47/gy/gy960/xsj.php?id=cccm
+viutv,http://103.45.68.47/gy/gy960/xsj.php?id=viutv
+viutv6,http://103.45.68.47/gy/gy960/xsj.php?id=viutv6
+hoytv,http://103.45.68.47/gy/gy960/xsj.php?id=hoytv
+hoy资讯,http://103.45.68.47/gy/gy960/xsj.php?id=hoy-info
+星河,http://103.45.68.47/gy/gy960/xsj.php?id=tvb-xinghe
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB明珠台,https://dispatchnew.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&token=c0vzuc7wqkzk
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 明珠台,http://50.7.220.74:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 明珠台,http://60.208.16.27:1505/gudou.php?id=1351_4500
 明珠台,http://119.123.214.235:9001/bysid/2
+明珠台,http://103.45.68.47/gy/gy960/xsj.php?id=pearl
 TVB明珠台,https://live.astradamy.com/tvbpearl/index.m3u8
 TVB明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 TVB明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
@@ -529,6 +541,7 @@ J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGt
 J2 ,http://r.jdshipin.com/Nr5jq
 J2,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=5
 J2,http://119.123.214.235:9001/bysid/82
+J2,http://103.45.68.47/gy/gy960/xsj.php?id=j2
 ViuTV,https://dispatchnew.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&token=c0vzuc7wqkzk
 VIU TV,http://radius.8866.org:800/hls/86/index.m3u8
 VIU TV,http://r.jdshipin.com/vSJvl
@@ -545,6 +558,8 @@ RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/str
 RTHK31,http://107.167.12.58:27347/livehttpplay?channel_id=20203
 RTHK31,http://119.123.214.235:9002/bysid/31
 RTHK31,http://107.167.12.58:27347/livehttpplay?channel_id=30066
+RTHK31,http://103.45.68.47/gy/gy960/xsj.php?id=rthk31
+RTHK32,http://103.45.68.47/gy/gy960/xsj.php?id=rthk32
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RHK32,http://107.167.12.58:27347/livehttpplay?channel_id=30028
 RTHK32,http://119.123.214.235:9002/bysid/32
