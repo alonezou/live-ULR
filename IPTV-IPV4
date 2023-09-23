@@ -1567,7 +1567,7 @@ http://66.181.39.224/ml.php?id=tvbs
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
 http://sc2022.stream-link.org/tv2306.php?id=t14
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
-https://cntv.sbs/4gtv?id=4gtv-4gtv073
+
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
 
 
@@ -1598,7 +1598,7 @@ https://lss-oal.line-scdn.net/p/live/hWL_tUph-CWIMYA58ADsaGwBPSAEUPE9dAQ9DbiJmEC
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
 http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1015
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
-https://cntv.sbs/4gtv?id=4gtv-4gtv009
+
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
 http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
@@ -1624,7 +1624,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t15
 http://162.19.247.76:22222/live/ztyz/index.m3u8
 
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
-https://cntv.sbs/4gtv?id=litv-longturn14
+
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
 http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1222
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
@@ -1645,7 +1645,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t08
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/华视新闻.png" group-title="港澳台",华视新闻 
-https://cntv.sbs/4gtv?id=4gtv-4gtv052
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/华视新闻.png" group-title="港澳台",华视新闻 
 http://sc2022.stream-link.org/tv2306.php?id=t04
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/华视新闻.png" group-title="港澳台",华视新闻 
@@ -1659,7 +1659,7 @@ http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/华视.png" group-title="港澳台",华视综艺
 
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
-https://cntv.sbs/4gtv?id=4gtv-4gtv040
+
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
 http://fsv4.yj011.net/sat/tv091.flv
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视
@@ -1667,7 +1667,7 @@ http://162.19.247.76:22222/live/zhongshi/index.m3u8
 
 
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
-https://cntv.sbs/4gtv?id=4gtv-4gtv074
+
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
 http://sc2022.stream-link.org/tv2306.php?id=t05
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻 
@@ -1688,18 +1688,18 @@ http://sc2022.stream-link.org/tv2306.php?id=t12
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
 
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
-https://cntv.sbs/4gtv?id=4gtv-4gtv002
+
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
 http://fsv4.yj011.net/sat/tv051.flv
 
 
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
-https://cntv.sbs/4gtv?id=4gtv-4gtv003
+
 #EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
 http://sc2022.stream-link.org/tv2306.php?id=t18
 
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
-https://cntv.sbs/4gtv?id=litv-ftv13
+
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
 
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台 
@@ -1708,7 +1708,7 @@ https://cntv.sbs/4gtv?id=litv-ftv13
 http://sc2022.stream-link.org/tv2306.php?id=t06
 
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="港澳台",民视台湾台
-https://cntv.sbs/4gtv?id=4gtv-4gtv001
+
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="港澳台",民视台湾台
 http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民视台湾台
@@ -1717,18 +1717,18 @@ http://sc2022.stream-link.org/tv2306.php?id=t19
 #EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视综艺台
 http://sc2022.stream-link.org/tv2306.php?id=t20
 #EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视综艺台
-https://cntv.sbs/4gtv?id=4gtv-4gtv004
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视旅游
 http://sc2022.stream-link.org/tv2306.php?id=t22
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视旅游
-https://cntv.sbs/4gtv?id=litv-ftv07
+
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",momo综合台 
 
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",momo综合台
 
 #EXTINF:-1,tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.112114.xyz/logo/三立綜合台.png" group-title="港澳台",三立綜合台
-https://cntv.sbs/4gtv?id=4gtv-live206
+
 
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://or00.stream-link.org/tv_logo/set-news+.png" group-title="港澳台",三立新闻
 http://sc2022.stream-link.org/tv2306.php?id=t10
@@ -1805,7 +1805,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t26
 
 
 #EXTINF:-1,tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" group-title="港澳台",公視戲劇
-https://cntv.sbs/4gtv?id=4gtv-4gtv042
+
 
 #EXTINF:-1,tvg-id="年代新闻台" tvg-name="年代新闻台" tvg-logo="https://epg.112114.xyz/logo/年代新闻台.png" group-title="港澳台",年代新闻
 http://211.72.65.236:8516/.m3u8
@@ -1878,7 +1878,7 @@ k
 #EXTINF:-1,tvg-id="ELTA体育3" tvg-name="ELTA体育3" tvg-logo="https://epg.112114.xyz/logo/ELTA体育3.png" group-title="港澳台",ELTA体育3
 
 #EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.112114.xyz/logo/愛爾達娛樂台.png" group-title="港澳台",愛爾達娛樂台
-https://cntv.sbs/4gtv?id=4gtv-4gtv070
+
 
 
 #EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="港澳台",靖天国际台
@@ -1891,10 +1891,10 @@ https://cntv.sbs/4gtv?id=4gtv-4gtv070
 
 
 #EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.112114.xyz/logo/靖天电影台.png" group-title="港澳台",靖天电影台
-https://cntv.sbs/4gtv?id=4gtv-4gtv061
+
 
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="其他",靖天日本台
-https://cntv.sbs/4gtv?id=4gtv-4gtv047
+
 
 
 #EXTINF:-1,tvg-id="星卫电影台" tvg-name="星卫电影台" tvg-logo="https://epg.112114.xyz/logo/星卫电影台.png" group-title="港澳台",星卫电影台
@@ -1989,7 +1989,6 @@ http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=107
 #EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.112114.xyz/logo/龙华日韩台.png" group-title="港澳台",龙华日韩
 http://211.72.65.236:8550/.m3u8
 #EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.112114.xyz/logo/龙华日韩台.png" group-title="港澳台",龙华日韩
-https://cntv.sbs/4gtv?id=litv-longturn11
 
 #EXTINF:-1,tvg-id="龙祥电影台" tvg-name="龙祥电影台" tvg-logo="https://epg.112114.xyz/logo/龙祥电影台.png" group-title="港澳台",龙祥电影台
 
@@ -2128,34 +2127,28 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1,tvg-id="番薯台]" tvg-name="番薯台" tvg-logo="https://epg.112114.xyz/logo/番薯台.png" group-title="港澳台",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1,tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影台.png" group-title="港澳台",影迷數位電影台
-https://cntv.sbs/4gtv?id=4gtv-4gtv01
+
 #EXTINF:-1,tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://epg.112114.xyz/logo/視納華仁紀實頻道.png" group-title="港澳台",視納華仁紀實頻道
-https://cntv.sbs/4gtv?id=4gtv-4gtv013
+
 #EXTINF:-1,tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://epg.112114.xyz/logo/VOA美國之音.png" group-title="其他",VOA美國之音
-https://cntv.sbs/4gtv?id=litv-ftv03
+
 
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="港澳台",MTV Live HD
 
 
 #EXTM3U
 #EXTINF:-1,tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://epg.112114.xyz/logo/大愛電視.png" group-title="港澳台",大愛電視
-https://cntv.sbs/4gtv?id=4gtv-live007
+
 #EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="港澳台",CI 罪案偵查頻道
-https://cntv.sbs/4gtv?id=4gtv-live027
+
 #EXTINF:-1,tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" group-title="港澳台",History 歷史頻道
-https://cntv.sbs/4gtv?id=4gtv-live026
+
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="港澳台",MTV Live HD 音樂頻道
-https://cntv.sbs/4gtv?id=4gtv-live025
+
 #EXTINF:-1,tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://epg.112114.xyz/logo/CNBCASIA財經台.png" group-title="港澳台",CNBC Asia 財經台
-https://cntv.sbs/4gtv?id=4gtv-live130
+
 #EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="港澳台",Love Nature
-https://cntv.sbs/4gtv?id=4gtv-live208
 
-
-
-
-
-#EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
 
 
