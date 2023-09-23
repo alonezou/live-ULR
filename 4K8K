@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV4",CCTV8K
-http://159.75.85.63:8765/xxtv8k.php
+CCTV8K,http://36.249.86.190:8088/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV4",CCTV8K-50FPS
 http://159.75.85.63:8654/xx8k50fps.ph
 #EXTINF:-1 tvg-name="CCTV4K-25P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K/8K-IPV4",CCTV4K-25P-HLG源
