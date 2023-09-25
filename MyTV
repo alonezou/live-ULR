@@ -1266,6 +1266,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳港澳台常用V4"---------------------------------------------------------------
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="🇨🇳港澳台常用V4",凤凰资讯
+http://113.117.74.20:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="🇨🇳港澳台常用V4",凤凰中文
+http://113.117.74.20:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🇨🇳港澳台常用V4",凤凰香港
+http://113.117.74.20:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://epg.112114.xyz/logo/凤凰电影.png" group-title="🇨🇳港澳台常用V4",凤凰电影
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="🇨🇳港澳台常用V4",香港卫视
@@ -1315,11 +1321,9 @@ http://107.167.12.58:27347/livehttpplay?channel_id=30026
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="🇨🇳港澳台常用V4",TVB明珠台
 http://107.167.12.58:27347/livehttpplay?channel_id=20125
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="🇨🇳港澳台常用V4",TVB星河
-http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=4
+http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="🇨🇳港澳台常用V4",TVB星河
 http://sc2022.stream-link.org/tv2306.php?id=c01
-#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="🇨🇳港澳台常用V4",TVB星河
-http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=4
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="🇨🇳港澳台常用V4",TVB经典
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="🇨🇳港澳台常用V4",TVB经典 
