@@ -817,6 +817,376 @@ History 歷史頻道,https://cntv.sbs/4gtv?id=4gtv-live026
 MTV Live HD 音樂頻道,https://cntv.sbs/4gtv?id=4gtv-live025
 CNBC Asia 財經台,https://cntv.sbs/4gtv?id=4gtv-live130
 Love Nature,https://cntv.sbs/4gtv?id=4gtv-live208
+凤凰资讯[1920x1080],http://113.117.74.20:8081/hls/36/index.m3u8
+凤凰中文[1920x1080],http://113.117.74.20:8081/hls/37/index.m3u8
+凤凰香港[1920x1080],http://113.117.74.20:8081/hls/38/index.m3u8
+TVB星河[1920x1080],http://r.jdshipin.com/Voac4
+TVB星河[1920x1080],http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
+TVB星河[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
+J2[1920x1080],http://r.jdshipin.com/Nr5jq
+J2台[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30030
+RTHK31[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30066
+RTHK32[1920x1080],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+tvbj1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
+TVB1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=qd42npLkoB
+TVB1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
+TVB1[1920x1080],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+TVBe[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
+无线新闻台[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+无线新闻台[1280x720],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+无线财经[1920x1080],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+千禧经典台[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
+娱乐新闻台[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
+翡翠台HD[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
+翡翠台[1920x1080],http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1350_4500
+翡翠台[1920x1080],http://r.jdshipin.com/qClQf
+翡翠[1920x1080],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+
+TVBS Asia[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
+
+八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+BBC[1280x720],http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
+BBC[1280x720],http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+中天综合[1920x1080],http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+非凡新闻[1920x1080],http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新闻[1920x1080],http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+年代新闻[1920x1080],http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+东森超视[1920x1080],http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+民视台湾[1920x1080],http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+靖天国际[1280x720],http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+三立都会[1920x1080],http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+纬来体育[1920x1080],http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+中天亚洲[1280x720],http://162.19.247.76:22222/live/ztyz/index.m3u8
+中天娱乐台[1280x720],http://162.19.247.76:22222/live/ztyl/index.m3u8
+东森戏剧台[1280x720],http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森电影台[1280x720],http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片台[1280x720],http://162.19.247.76:22222/live/dsypt/index.m3u8
+
+
+NHKWORLD[1920x1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+Thai PBS 3[1920*1080],http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+金砖电视[1920x1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+
+
+CBSN[1280x720][1280*720],http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+环球电视台[1920x1080][1280*720],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+CNBC Awaaz (720p)[1920x1080][1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA News[1920x1080][1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+France 24 ENG[1280x720][1280*720],http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+BBC[1280x720][1280*720],http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+ABC News[1280x720][1280*720],https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+France 24 French (720p)[1280x720][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+CGTN Fran ais (Opt-2)[1280x720][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+Fido TV (720p) [Not 24/7][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+FRANCE 24 HD[1280x720][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+CBSN[1280x720][1280*720],https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+CBSN Boston MA [1280x720],https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+CNN[1280x720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+Fox News[1280x720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+BBC First[1280x720]],http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+Bloomberg HT[1280x720],http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+ABC新闻[1280x720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+Bloomberg Quicktake[1920*1080],https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+Bloomberg Television[1920*1080],https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg US Desktop[3840*2160],https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg[3840*2160],https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV US HD[1920*1080],https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+
+
+tvbj1[1920x1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
+TVBRICS[1920x1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+东森洋片[1920x1080],http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+东森洋片[1920x1080],http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+东森电影[1920x1080],http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+凤凰卫视[1920x1080][1920*1080],http://113.117.74.19:8081/hls/36/index.m3u8
+凤凰香港[1920x1080][1920*1080],http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+动物星球频道[1920x1080],http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+半岛新闻[1920x1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+无线新闻台[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30024
+无线新闻台[1920x1080],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+无线财经体育资讯[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30019
+无线财经体育资讯台[1920x1080],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+环球电视台[1920x1080][1920*1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+翡翠台[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=20127
+翡翠台[1920x1080],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+金砖中文[1920x1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文[1920x1080],http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+香港32台(RTHK32)[1920x1080],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+VTC13[3840x2160][3840*2160],http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+ABC新闻[1280x720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+J2台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20122
+J2台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30023
+RTHK32[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30067
+TVB 经典台[1280x720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+TVBS[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
+ViuTV 6[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30033
+ViuTV6[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20132
+ViuTV6[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30033
+ViuTV[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20131
+ViuTV[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30032
+中视[1280x720],http://162.19.247.76:22222/live/zhongshi/index.m3u8
+中视[1280x720],https://fsv4.yj011.net/sat/tv091.flv
+中视经典[1280x720],http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+华视[1280x720],https://fsv4.yj011.net/sat/tv111.flv
+台视[1280x720],https://fsv4.yj011.net/sat/tv071.flv
+台视[1280x720],http://162.19.247.76:22222/live/taishi/index.m3u8
+天映经典[1280x720],http://162.19.247.76:22222/live/tyjd/index.m3u8
+娱乐新闻台[1280x720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+无线新闻[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20123
+无线新闻台[1280x720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+无线财经体育新闻[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20121
+无线财经体育资讯[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30022
+明珠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20125
+明珠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30026
+明珠台[1280x720],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+星空卫视[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20126
+港台RT31[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20203
+美国CNN[1280x720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+翡翠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
+翡翠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30025
+香港卫视文旅[1280x720],http://hls.ye23.vip/dl/hks6tv.php
+翡翠台[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=20127
+翡翠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20124
+翡翠台[1920x1080],http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
+翡翠台[1920x1080],http://r.jdshipin.com/qClQf
+华丽台[1280x720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+J2[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30030
+J2[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30023
+J2[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20122
+J2[1920x1080],http://r.jdshipin.com/Nr5jq
+明珠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30026
+明珠台[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20125
+明珠台[1920x1080],http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
+ViuTV[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30032
+ViuTV[1280x720],http://r.jdshipin.com/vSJvl
+ViUTV6[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30033
+TVB无线新闻[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30024
+TVB无线新闻[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20123
+cctv4欧洲台[1920x1080],https://epg.pw/stream/4d6d4b653a8d6919e20d074cd567ad7c5cd8a5b9cde3c831114d643780a6567a.m3u8
+cctv4美洲台[1920x1080],https://epg.pw/stream/ea667bc85bcbcad6992374fc86e35ec3b66a7bfcdd4fcd38cda782d17948bc43.m3u8
+ABC 2 Baton Rouge LA[1280*720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+CNN BRASIL 4K¹[1920*1080],http://7go.xyz:8080/21985573754/21985573bst/275367
+ABC 2 Baton Rouge LA[1280x720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+France 24 French (720p)[1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+CBS News Chicago (720p)[1280*720],https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+CBS News Colorado (720p)[1280*720],https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+CBS News Dallas Ft Worth (720p)[1280*720],https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CBS News Detroit (720p)[1280*720],https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+CBS News Los Angeles (720p)[1280*720],https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBS News Miami (720p)[1280*720],https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+CBS News National (720p)[1280*720],https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS News Pittsburgh (720p)[1280*720],https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+CNN BRASIL FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/22655
+ABC 2 Baton Rouge LA[1280x720][1280*720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+TJB SBS[1280x720][1280*720],http://1.245.74.5:1935/live/tv/.m3u8
+J2高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20122
+无线新闻台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20123
+翡翠台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20124
+明珠台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20125
+翡翠台[1920x1080][1920*1080],http://107.167.12.58:27347/livehttpplay?channel_id=20127
+ViuTV高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20131
+J2超清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30023
+无线新闻台超清[1920x1080,http://107.167.12.58:27347/livehttpplay?channel_id=30024
+翡翠台超清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30025
+明珠台超清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30026
+J2[1920x1080][1920*1080],http://107.167.12.58:27347/livehttpplay?channel_id=30030
+ViuTV+[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30032
+ViuTV6+[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30033
+TVB星河[1920x1080][1920*1080],http://113.117.74.12:8081/hls/135/index.m3u8
+凤凰资讯[1920x1080][1920*1080],http://113.117.74.12:8081/hls/36/index.m3u8
+凤凰中文[1920x1080][1920*1080],http://113.117.74.12:8081/hls/37/index.m3u8
+凤凰香港[1920x1080][1920*1080],http://113.117.74.12:8081/hls/38/index.m3u8
+KBC SBS[1920x1080][1920*1080],http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+KBC SBS[1920x1080][1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KCTV[1280x720][1280*720],http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+斗鱼4K电影[3840x2160][3840*2160],http://159.75.85.63:35455/douyu/9249162
+凤凰中文[1280x720][1280*720],http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+华视[1280x720][1280*720],http://162.19.247.76:22222/live/huashi/index.m3u8
+台视[1280x720][1280*720],http://162.19.247.76:22222/live/taishi/index.m3u8
+中视[1280x720][1280*720],http://162.19.247.76:22222/live/zhongshi/index.m3u8
+中天娱乐台[1280x720][1280*720],http://162.19.247.76:22222/live/ztyl/index.m3u8
+中天亚洲[1280x720][1280*720],http://162.19.247.76:22222/live/ztyz/index.m3u8
+CCTV13[1920x1080][1920*1080],http://183.196.25.171:808/hls/13/index.m3u8
+DW德國之聲[1920x1080][1920*1080],http://185.236.229.31:9981/play/a068
+
+BEIN SPORTS FRENCH HD1[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+Canal 4 Mancha Centro[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+Euronews French[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+FilmRise Forensic Files[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+FilmRise Free Movies[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+France 24 Arabic[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+France 24 Arabic[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+France 24 English[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+France 24 French[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+France 24[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+French HD2[1280x720][1280*720],http://81.94.196.204/tsstreamer/France24_HD.ts
+TVBRICS[1920x1080][1920*1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯台[1920x1080][1920*1080],http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文[1920x1080][1920*1080],http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+CBSN[1280x720][1280*720],http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+CBSN[1280x720][1280*720],http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+BBC First[1280x720][1280*720],http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+Bloomberg HT[1280x720][1280*720],http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+ABC News[1280x720][1280*720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC新闻[1280x720][1280*720],http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+CNN[1280x720][1280*720],http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN全球新聞[1280x720][1280*720][1280*720],http://ip2121.com:8081/live/cnn/playlist.m3u8
+tvbj1[1920x1080][1920*1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
+翡翠台HD[1920x1080][1920*1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
+TVB1[1920x1080][1920*1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=qd42npLkoB
+TVBe[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
+无线新闻[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+无线新闻[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+TVB1[1920x1080][1920*1080],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
+千禧经典台[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
+娱乐新闻台[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
+翡翠台HD[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
+TVB星河[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
+未标记3[1280x720][1280*720],http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
+半岛新闻[1920x1080][1920*1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半島新聞台[1920x1080][1920*1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+BBC World News[1920x1080][1920*1080],http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+韓國新聞[1280x720][1280*720],http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+BBC NEWS[1920x1080][1920*1080],http://myott.top/stream/DT6QU63K5VX/85.m3u8
+France 24 ENG[1280x720][1280*720],http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+泰国ASTV[1920x1080][1920*1080],http://news1.live14.com/stream/news1_hi.m3u8
+高清翡翠[1920x1080][1920*1080],http://r.jdshipin.com/qClQf
+BBC[1280x720][1280*720],http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+Shop Channel[1920x1080][1920*1080],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+PBS泰国(5G专线)[1280x720][1280*720],http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰·公共[1920x1080][1920*1080],http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+EZTV1欧洲华文电视[1920x1080][1920*1080],http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV2欧洲华文电视[1920x1080][1920*1080],http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+环球电视台[1920x1080][1920*1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+ABC News[1280x720][1280*720],https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+Bloomberg Quicktake[1920x1080][1920*1080],https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+Bloomberg Television[1920*1080],https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg US Desktop[3840*2160],https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+CBSN Boston MA (720p)[1280x720][1280*720],https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CGTN Fran ais (Opt-2)[1280x720][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+CGTN Fran ais[1280x720][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+FRANCE 24 HD[1280x720][1280*720],https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+CBSN[1280x720][1280*720],https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+CBSN Boston MA (720p)[1280x720][1280*720],https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
+CNN[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+CNN[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+CNN[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+CNN[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+美国频道[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+CNN[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN[1280x720][1280*720],https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+三立都会[1920x1080][1920*1080],https://epg.pw/stream/3193c4cbab27252a840957c616b6b0c84df918e87061638d36c0a244b818fd8c.m3u8
+三立台湾[1920x1080][1920*1080],https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8
+Fox News[1280x720][1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Fox News[1280x720][1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOXNews[1280x720][1280*720],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CBSN[1920x1080][1920*1080],https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+NHK world Japan[1920x1080][1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK WORLD[1920x1080][1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK_world[1920x1080][1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World[1280x720][1280*720],https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK_world[1280x720][1280*720],https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK World[1280x720][1280*720],https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+AR - Cnbc News[1280x720][1280*720],https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8
+RTHK32[1920x1080][1920*1080],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港32台[1920x1080][1920*1080],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+BBC Earth[1920x1080][1920*1080],https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.world.news.ru.m3u8
+HBO 2 FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/42932
+HBO 2 FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/22680
+HBO FAMILY FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/42933
+HBO FAMILY FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/45221
+HBO FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/45220
+HBO FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/22681
+HBO MAX CHAMPIONS LEAGUE FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/63009
+HBO MUNDI FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/42931
+HBO POP FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/42930
+HBO POP FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/22684
+HBO SIGNATURE FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/22685
+HBO XTREAM FHD²[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/22686
+HBO XTREME FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/45222
+HBO 4K¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/116632
+HBO SIGNATURE FHD¹[1920*1080][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/42929
+HBO 2 HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18834
+HBO 2 HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22548
+HBO FAMILY HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18835
+HBO FAMILY HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22549
+HBO HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18836
+HBO HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22550
+HBO MAX CHAMPIONS LEAGUE  1 HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/63011
+HBO MAX CHAMPIONS LEAGUE 1 HD*[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/69819
+HBO MAX CHAMPIONS LEAGUE 2 HD*[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/69815
+HBO MAX CHAMPIONS LEAGUE 4 HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/69820
+HBO MAX CHAMPIONS LEAGUE 5 HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/59964
+HBO MAX CHAMPIONS LEAGUE FHD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/59973
+HBO MUNDI FHD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22682
+HBO MUNDI HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18837
+HBO MUNDI HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22551
+HBO PLUS FHD¹[1280*720][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/42934
+HBO PLUS FHD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22683
+HBO PLUS HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18838
+HBO PLUS HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22552
+HBO PLUS SD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22355
+HBO POP HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18839
+HBO POP HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22553
+HBO SIGNATURE HD¹[1280*720][1920*1080],http://7go.xyz:8080/21985573754/21985573bst/18840
+HBO SIGNATURE HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22554
+HBO XTREME HD¹[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/18841
+HBO XTREME HD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22555
+FOX SPORTS 2 FHD MAX²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/65735
+FOX SPORTS 2 FHD²[1280*720][1280*720],http://7go.xyz:8080/21985573754/21985573bst/22674
+凤凰卫视香港台[1920x1080][1920*1080],http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+环球电视台[1280x720][1920*1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+中天娱乐台[1280x720][1280*720],http://162.19.247.76:22222/live/ztyl/index.m3u8
+美国mytime 电影频道[1920*1080][1920*1080],https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+民視[1280x720][1280*720],https://fsv4.yj011.net/sat/tv051.flv
+台視[1280x720][1280*720],https://fsv4.yj011.net/sat/tv071.flv
+中視[1280x720][1280*720],https://fsv4.yj011.net/sat/tv091.flv
+華視[1280x720][1280*720],https://fsv4.yj011.net/sat/tv111.flv
+TVBS新聞[1280x720][1280*720],https://fsv4.yj011.net/sat/tv551.flv
+TVBS歡樂[1280x720][1280*720],https://fsv4.yj011.net/sat/tv421.flv
+東森財經新聞[1280x720][1280*720],https://fsv4.yj011.net/sat/tv571.flv
+緯來育樂[1280x720][1280*720],https://fsv4.yj011.net/sat/tv701.flv
+緯來體育[1280x720][1280*720],https://fsv4.yj011.net/sat/tv721.flv
+ELEVEN1[1280x720][1280*720],https://fsv4.yj011.net/sat/tv731.flv
+ELEVEN2[1280x720][1280*720],https://fsv4.yj011.net/sat/tv741.flv
+MOMO綜合[1280x720][1280*720],https://fsv4.yj011.net/sat/tv761.flv
+緯來日本[1280x720][1280*720],https://fsv4.yj011.net/sat/tv771.flv
+博斯網球[1280x720][1280*720],https://fsv4.yj011.net/sat/md041.flv
+博斯運動[1280x720][1280*720],https://fsv4.yj011.net/sat/md051.flv
+无线财经·资讯台[1920x1080][1920*1080],http://107.167.12.58:27347/livehttpplay?channel_id=30019
+无线财经·资讯台[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30022
+无线财经·资讯台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20121
+无线新闻台超清[1920x1080][1920*1080],http://107.167.12.58:27347/livehttpplay?channel_id=30024
+无线新闻台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20123
+翡翠台[1920*1080],http://107.167.12.58:27347/livehttpplay?channel_id=20127
+翡翠台超清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20124J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
+J2超清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30023
+J2高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20122
+明珠台超清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30026
+明珠台高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20125
+ViuTVHD+[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30032
+ViuTV高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20131
+ViuTV6HD+[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=30033
+ViuTV6高清[1280x720][1280*720],http://107.167.12.58:27347/livehttpplay?channel_id=20132
+TVB 星河[1920x1080][1920*1080],http://sc2022.stream-link.org/tv2306.php?id=c02
+华语剧台[1920x1080][1920*1080],http://sc2022.stream-link.org/tv2306.php?id=c01
+中国电影[1920x1080][1920*1080],http://lcx-olt.8866.org:8181/tsfile/live/1076_1.m3u8
+TVB无线新闻[1280x720][1280*720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+TVB-J1[1920x1080][1920*1080],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+TVB 翡翠[1920x1080][1920*1080],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+TVB-1[1920x1080][1920*1080],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+TVB-E[1280x720][1280*720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+TVB星河[1280x720][1280*720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB千禧经典[1280x720][1280*720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+TVB娱乐.新闻[1280x720][1280*720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+TVB JADE[1280x720][1280*720],http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+东森.超视[1920x1080][1920*1080],http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+香港32台[1920x1080][1920*1080],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+番薯[1920x1080][1920*1080],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
 
 🇨🇳国际,#genre#
 AL Jazeera FHD,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
