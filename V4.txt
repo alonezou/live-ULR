@@ -434,8 +434,8 @@ NBTV-5,http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
 泰顺新闻综合,http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
 
 🇨🇳🇭🇰🇲🇴🇹🇼港澳台StreamTV,#genre#
-測試01(Astro QJ),https://sc2022.stream-link.org/tv2306.php?id=c01
-測試02(Astro SUPERSPORT 4),https://sc2022.stream-link.org/tv2306.php?id=c02
+測試01(DAZN F1),https://sc2022.stream-link.org/tv2306.php?id=c01
+測試02(DAZN 西甲),https://sc2022.stream-link.org/tv2306.php?id=c02
 華麗(翡翠台),https://sc2022.stream-link.org/tv2306.php?id=h26
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h01
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
@@ -463,6 +463,7 @@ TVB星河台,https://sc2022.stream-link.org/tv2306.php?id=h23
 TVB千禧經典台,https://sc2022.stream-link.org/tv2306.php?id=h24
 8TV,https://sc2022.stream-link.org/tv2306.php?id=h25
 Astro AEC,https://sc2022.stream-link.org/tv2306.php?id=h27
+Astro QJ,https://sc2022.stream-link.org/tv2306.php?id=h28
 Now精選體育,https://sc2022.stream-link.org/tv2306.php?id=s01
 五星體育,https://sc2022.stream-link.org/tv2306.php?id=s02
 緯來體育,https://sc2022.stream-link.org/tv2306.php?id=s03
@@ -477,14 +478,13 @@ FIFA+,https://sc2022.stream-link.org/tv2306.php?id=s12
 Tennis Channel,https://sc2022.stream-link.org/tv2306.php?id=s13
 beIN SPORTS XTRA,https://sc2022.stream-link.org/tv2306.php?id=s14
 beIN SPORTS,https://sc2022.stream-link.org/tv2306.php?id=s15
-beIN SPORTS 2,https://sc2022.stream-link.org/tv2306.php?id=s20
-beIN SPORTS 3,https://sc2022.stream-link.org/tv2306.php?id=s21
-beIN SPORTS 4,https://sc2022.stream-link.org/tv2306.php?id=s22
-Eleven 1,https://sc2022.stream-link.org/tv2306.php?id=s16
-Eleven 2,https://sc2022.stream-link.org/tv2306.php?id=s17
-ELTA Sports 1,https://sc2022.stream-link.org/tv2306.php?id=s19
-ELTA Sports 2,https://sc2022.stream-link.org/tv2306.php?id=s18
-ELTA Sports 3,https://sc2022.stream-link.org/tv2306.php?id=s04
+beIN SPORTS 2,https://sc2022.stream-link.org/tv2306.php?id=s16
+beIN SPORTS 3,https://sc2022.stream-link.org/tv2306.php?id=s17
+beIN SPORTS 4,https://sc2022.stream-link.org/tv2306.php?id=s18
+Astro SUPERSPORT,https://sc2022.stream-link.org/tv2306.php?id=s19
+Astro SUPERSPORT 2,https://sc2022.stream-link.org/tv2306.php?id=s20
+Astro SUPERSPORT 3,https://sc2022.stream-link.org/tv2306.php?id=s21
+Astro SUPERSPORT 4,https://sc2022.stream-link.org/tv2306.php?id=s22
 ABC News Australia,https://sc2022.stream-link.org/tv2306.php?id=e01
 ABC News Live,https://sc2022.stream-link.org/tv2306.php?id=e02
 ANN News,https://sc2022.stream-link.org/tv2306.php?id=e03
