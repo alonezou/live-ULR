@@ -2480,7 +2480,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="🇨🇳陕西V6.央视",CGTN 8M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="精彩综艺 4M1080" tvg-name="精彩综艺 4M1080" tvg-logo="https://epg.112114.xyz/logo/精彩综艺.png" group-title="🇨🇳陕西V6.",精彩综艺 4M1080
+#EXTINF:-1,tvg-id="精彩综艺 4M1080" tvg-name="精彩综艺 4M1080" tvg-logo="https://epg.112114.xyz/logo/精彩综艺.png" group-title="🇨🇳陕西V6.其它",精彩综艺 4M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="🇨🇳陕西V6.卫视",东方卫视 3M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
