@@ -86,11 +86,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="静态4K测试" tvg-name="静态4K测试" tvg-logo="" group-title="4K/8K-IPV4",静态4K测试
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-
-
-
-
-
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="4K/8K-IPV6",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="4K/8K-IPV6",CCTV1-4K•支持回看
