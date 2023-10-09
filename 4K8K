@@ -83,8 +83,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="臻彩4K欧洲" tvg-name="臻彩4K欧洲" tvg-logo="https://epg.112114.xyz/logo/臻彩4K欧洲.png" group-title="4K/8K-IPV4",臻彩4K欧洲
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-id="4k记录欧洲" tvg-name="4k记录欧洲" tvg-logo="https://epg.112114.xyz/logo/4K记录欧洲.png" group-title="4K/8K-IPV4",4k记录欧洲
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-id="静态4K测试" tvg-name="静态4K测试" tvg-logo="" group-title="4K/8K-IPV4",静态4K测试
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+
 
 
 
