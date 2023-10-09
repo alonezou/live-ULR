@@ -1565,11 +1565,7 @@ http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
 http://66.181.39.224/ml.php?id=tvbs
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
-http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
-
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
-
+http://sc2022.stream-link.org/tv2306.php?id=t15
 
 #EXTINF:-1 tvg-id="TVBS亚洲台" tvg-name="TVBS亚洲台" tvg-logo="https://epg.112114.xyz/logo/TVBS" group-title="港澳台",TVBS亚洲台
 http://sc2022.stream-link.org/tv2306.php?id=t16
