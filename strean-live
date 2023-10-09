@@ -5,7 +5,7 @@ https://sc2022.stream-link.org/tv2306.php?id=c01
 https://sc2022.stream-link.org/tv2306.php?id=c02
 
 #EXTINF:-1 tvg-id="999" tvg-name="華麗(翡翠台)" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
-https://sc2022.stream-link.org/tv2306.php?id=h26
+https://sc2022.stream-link.org/tv2306.php?id=h00
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
@@ -20,23 +20,23 @@ https://sc2022.stream-link.org/tv2306.php?id=h05
 https://sc2022.stream-link.org/tv2306.php?id=h06
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://sc2022.stream-link.org/tv2306.php?id=h07
-#EXTINF:-1 tvg-id="9999" tvg-name="澳視澳門" tvg-logo="https://www.stream-link.org/tv_logo/tdm_91.png" group-title="澳門電視廣播",澳視澳門
+#EXTINF:-1 tvg-id="9999" tvg-name="Now新聞台" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png" group-title="Now",Now新聞台
 https://sc2022.stream-link.org/tv2306.php?id=h08
-#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="https://www.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
+#EXTINF:-1 tvg-id="85" tvg-name="ViuTV99" tvg-logo="https://www.stream-link.org/tv_logo/viutv.png" group-title="香港電視娛樂",ViuTV99
 https://sc2022.stream-link.org/tv2306.php?id=h09
-#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="https://www.stream-link.org/tv_logo/rthk_32.png" group-title="RTHK",港台电视32
+#EXTINF:-1 tvg-id="9999" tvg-name="澳視澳門" tvg-logo="https://www.stream-link.org/tv_logo/tdm_91.png" group-title="澳門電視廣播",澳視澳門
 https://sc2022.stream-link.org/tv2306.php?id=h10
-#EXTINF:-1 tvg-id="33" tvg-name="港台电视33" tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png" group-title="RTHK",港台电视33
+#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="https://www.stream-link.org/tv_logo/rthk_31.png" group-title="RTHK",港台电视31
 https://sc2022.stream-link.org/tv2306.php?id=h11
-#EXTINF:-1 tvg-id="9999" tvg-name="中央新聞台" tvg-logo="https://www.stream-link.org/tv_logo/cctv_13.png" group-title="中央電視台",中央新聞台
+#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="https://www.stream-link.org/tv_logo/rthk_32.png" group-title="RTHK",港台电视32
 https://sc2022.stream-link.org/tv2306.php?id=h12
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台(第一聲道)" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="奇妙電視",香港國際財經台(第一聲道)
+#EXTINF:-1 tvg-id="33" tvg-name="港台电视33" tvg-logo="https://www.stream-link.org/tv_logo/rthk_33.png" group-title="RTHK",港台电视33
 https://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台(第二聲道)" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="奇妙電視",香港國際財經台(第二聲道)
+#EXTINF:-1 tvg-id="9999" tvg-name="中央新聞台" tvg-logo="https://www.stream-link.org/tv_logo/cctv_13.png" group-title="中央電視台",中央新聞台
 https://sc2022.stream-link.org/tv2306.php?id=h14
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視(第一聲道)" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視(第一聲道)
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.stream-link.org/tv_logo/hkibc.png" group-title="奇妙電視",香港國際財經台
 https://sc2022.stream-link.org/tv2306.php?id=h15
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視(第二聲道)" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視(第二聲道)
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://www.stream-link.org/tv_logo/hoy_tv.png" group-title="奇妙電視",香港開電視
 https://sc2022.stream-link.org/tv2306.php?id=h16
 #EXTINF:-1 tvg-id="78" tvg-name="香港開電視資訊台" tvg-logo="https://www.stream-link.org/tv_logo/hoy_info.png" group-title="奇妙電視",香港開電視資訊台
 https://sc2022.stream-link.org/tv2306.php?id=h17
@@ -44,22 +44,20 @@ https://sc2022.stream-link.org/tv2306.php?id=h17
 https://sc2022.stream-link.org/tv2306.php?id=h18
 #EXTINF:-1 tvg-id="9999" tvg-name="鳳凰衛視中文台" tvg-logo="https://www.stream-link.org/tv_logo/phtv_live.png" group-title="鳳凰衛視",鳳凰衛視中文台
 https://sc2022.stream-link.org/tv2306.php?id=h19
-#EXTINF:-1 tvg-id="9999" tvg-name="Now新聞台" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png" group-title="Now",Now新聞台
-https://sc2022.stream-link.org/tv2306.php?id=h20
 #EXTINF:-1 tvg-id="9999" tvg-name="澳門蓮花衛視" tvg-logo="https://www.stream-link.org/tv_logo/macault.png" group-title="澳門衛視",澳門蓮花衛視
-https://sc2022.stream-link.org/tv2306.php?id=h21
+https://sc2022.stream-link.org/tv2306.php?id=h20
 #EXTINF:-1 tvg-id="9999" tvg-name="TVB華語劇台" tvg-logo="https://www.stream-link.org/tv_logo/mytv_89.png" group-title="TVB",TVB華語劇台
-https://sc2022.stream-link.org/tv2306.php?id=h22
+https://sc2022.stream-link.org/tv2306.php?id=h21
 #EXTINF:-1 tvg-id="9999" tvg-name="TVB星河台" tvg-logo="https://www.stream-link.org/tv_logo/mytv_214.png" group-title="Astro",TVB星河台
-https://sc2022.stream-link.org/tv2306.php?id=h23
+https://sc2022.stream-link.org/tv2306.php?id=h22
 #EXTINF:-1 tvg-id="9999" tvg-name="TVB千禧經典台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_classic.png" group-title="Astro",TVB千禧經典台
-https://sc2022.stream-link.org/tv2306.php?id=h24
+https://sc2022.stream-link.org/tv2306.php?id=h23
 #EXTINF:-1 tvg-id="9999" tvg-name="8TV" tvg-logo="https://www.stream-link.org/tv_logo/8tv.png" group-title="八度空間",8TV
-https://sc2022.stream-link.org/tv2306.php?id=h25
+https://sc2022.stream-link.org/tv2306.php?id=h24
 #EXTINF:-1 tvg-id="9999" tvg-name="Astro AEC" tvg-logo="https://www.stream-link.org/tv_logo/astro_aec.png" group-title="Astro",Astro AEC
-https://sc2022.stream-link.org/tv2306.php?id=h27
+https://sc2022.stream-link.org/tv2306.php?id=h25
 #EXTINF:-1 tvg-id="9999" tvg-name="Astro QJ" tvg-logo="https://www.stream-link.org/tv_logo/astro_qj.png" group-title="Astro",Astro QJ
-https://sc2022.stream-link.org/tv2306.php?id=h28
+https://sc2022.stream-link.org/tv2306.php?id=h26
 
 #EXTINF:-1 tvg-id="9999" tvg-name="Now精選體育" tvg-logo="https://www.stream-link.org/tv_logo/now_630.png" group-title="體育休閒",Now精選體育
 https://sc2022.stream-link.org/tv2306.php?id=s01
@@ -103,6 +101,12 @@ https://sc2022.stream-link.org/tv2306.php?id=s20
 https://sc2022.stream-link.org/tv2306.php?id=s21
 #EXTINF:-1 tvg-id="999" tvg-name="Astro SUPERSPORT 4" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport4.png" group-title="體育休閒",Astro SUPERSPORT 4
 https://sc2022.stream-link.org/tv2306.php?id=s22
+#EXTINF:-1 tvg-id="999" tvg-name="Astro SUPERSPORT" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="體育休閒",Astro CH795
+https://sc2022.stream-link.org/tv2306.php?id=s23
+#EXTINF:-1 tvg-id="999" tvg-name="Astro SUPERSPORT" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="體育休閒",Astro CH796
+https://sc2022.stream-link.org/tv2306.php?id=s24
+#EXTINF:-1 tvg-id="999" tvg-name="Astro SUPERSPORT" tvg-logo="https://www.stream-link.org/tv_logo/astro_supersport.png" group-title="體育休閒",Astro CH797
+https://sc2022.stream-link.org/tv2306.php?id=s25
 
 #EXTINF:-1 tvg-id="9999" tvg-name="ABC News Australia" tvg-logo="https://www.stream-link.org/tv_logo/abc_news_australia.png" group-title="News",ABC News Australia
 https://sc2022.stream-link.org/tv2306.php?id=e01
@@ -179,6 +183,8 @@ https://sc2022.stream-link.org/tv2306.php?id=e35
 https://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="https://www.stream-link.org/tv_logo/ebc_finance.png" group-title="台灣新聞",東森財經新聞
 https://sc2022.stream-link.org/tv2306.php?id=t02
+#EXTINF:-1 tvg-id="6069" tvg-name="東森超視" tvg-logo="https://www.stream-link.org/tv_logo/ebc_33.png" group-title="台灣綜合綜藝",東森超視
+https://sc2022.stream-link.org/tv2306.php?id=t30
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://www.stream-link.org/tv_logo/cti_news.png" group-title="台灣新聞",中天新聞
 https://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://www.stream-link.org/tv_logo/cts.png" group-title="台灣綜合綜藝",華視
@@ -205,7 +211,7 @@ https://sc2022.stream-link.org/tv2306.php?id=t13
 https://sc2022.stream-link.org/tv2306.php?id=t29
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_news.png" group-title="台灣新聞",TVBS新聞
 https://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_finance.png" group-title="台灣新聞",TVBS財經
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_finance.png" group-title="台灣新聞",TVBS
 https://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS歡樂台" tvg-logo="https://www.stream-link.org/tv_logo/tvbs_42.png" group-title="台灣綜合綜藝",TVBS歡樂台
 https://sc2022.stream-link.org/tv2306.php?id=t16
