@@ -1333,6 +1333,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="🇨🇳港澳台常用V4",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇨🇳港澳台常用V4",翡翠台
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-9a216164-0c92-44b2-8ee4-c84fe202b8ec/.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇨🇳港澳台常用V4",翡翠台
 http://119.123.214.235:9000/bysid/1
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇨🇳港澳台常用V4",翡翠台
 https://dispatchnew.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&token=c0vzuc7wqkzk
@@ -1563,11 +1565,11 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="🇨🇳港澳台常用V4",TVBS欢乐台
 http://66.181.39.224/ml.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="🇨🇳港澳台常用V4",TVBS新闻台
-https://fsv4.yj011.net/sat/tv551.flv
+https://lss-oal.line-scdn.net/p/live/h4n42jWkVakBnJm1ea315OWsJKyN_eixFbklscnc8aw5RDGlrfk55XHM3PSF7Cy9sak0sTF4gNRBBDHRoNnB4WFpLdCNvBHVrQF14d0lKfRZQGE5vS1JQUixVaDNmZ3VKdzF6ZHQdbS47JnRIYTF0Zm0JKiN6JyceNCQl/abr.m3u8?m=hls
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="🇨🇳港澳台常用V4",TVBS新闻台
 http://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="🇨🇳港澳台常用V4",TVBS新闻台
-https://lss-oal.line-scdn.net/p/live/hWL_tUph-CWIMYA58ADsaGwBPSAEUPE9dAQ9DbiJmECwmRQZnFRwMfhhxXgMQTUxOAQtPbjVmVjIqShdJKAAMeiFmDS06QUpJKxsbVSIMHjQ7Xi1NIBQzcEcTCxENIRZoHHcZRh9bDgxQYBdqCncXRAZPSQERYUQ8X2JG/1080/chunklist.m3u8
+https://fsv4.yj011.net/sat/tv551.flv
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://www.stream-link.org/tv_logo/cti_news.png" group-title="🇨🇳港澳台常用V4",中天新闻台
 http://154.216.191.59/mk/免费直播交流群893454040.php?id=live1015
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="http://www.stream-link.org/tv_logo/cti_news.png" group-title="🇨🇳港澳台常用V4",中天新闻台
@@ -1639,7 +1641,7 @@ http://sc2022.stream-link.org/tv2306.php?id=t24
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="🇨🇳港澳台常用V4",东森新闻
 http://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="🇨🇳港澳台常用V4",东森新闻
-https://lss-oal.line-scdn.net/p/live/hgTFtmGmWOXoVYD5kGTsqAxlPeBkNPH9GIRd2Yjd2PxkwPTZ_MgN2ZgFxbhsJTXxWGAt_dixmZiozSidRMQA8YjhmPxkdQiJGDBsrTTsMLiwiXh1VORQDaF4TOwkUISZwBXcpXgZbPhRJYCdyE3cnXB9PeRkIYXQkRmJ2/1080/chunklist.m3u8
+https://lss-oal.line-scdn.net/p/live/hSBMSsdDuDWweRwpyEhweFRJoTA8GGwJTEEwBdzBKGiFeTw1EEC9CcApWWg0CakhAEyxLYCdBUjw4bRNET0RDYzMiGQ8WZklHOTwfWzArFDopeSlDMjM3flU0Dx8fBhJmDlAdSA18CgJCRxNkGFATShRoTQ8DRkAyTUVC/abr.m3u8?m=hls
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="🇨🇳港澳台常用V4",东森新闻
 http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="🇨🇳港澳台常用V4",东森新闻
