@@ -944,6 +944,11 @@ http://60.190.51.54:9901/tsfile/live/23277_1.m3u8?url=tvzb.com
 #EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",宁波少儿频道NBTV-5 V4
 http://60.190.51.54:9901/tsfile/live/23278_1.m3u8?url=tvzb.com
 
+#EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州1
+http://play-a2.quklive.com/live/1668501533304136.m3u8
+#EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州2
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+
 
 #EXTINF:-1,tvg-id="宁波教育科技" tvg-name="宁波教育科技" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="🇨🇳浙江"",宁波教育科技 V4
 http://live1.cloud.nbtv.cn/85c706b2820d454495352f9f3e77f86a/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
