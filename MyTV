@@ -944,9 +944,9 @@ http://60.190.51.54:9901/tsfile/live/23277_1.m3u8?url=tvzb.com
 #EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",宁波少儿频道NBTV-5 V4
 http://60.190.51.54:9901/tsfile/live/23278_1.m3u8?url=tvzb.com
 
-#EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州1
+#EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州1 V4
 http://play-a2.quklive.com/live/1668501533304136.m3u8
-#EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州2
+#EXTINF:-1 group-title="🇨🇳浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州2 V4
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
 
 
@@ -1048,6 +1048,9 @@ http://220.231.188.200:8089/hls/28/index.m3u8
 http://220.231.188.200:8089/hls/32/index.m3u8
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="🇨🇳广东",大湾区卫视 V4
 http://220.231.188.200:8089/hls/31/index.m3u8
+#EXTINF:-1,tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="🇨🇳广东"，南国都市 V4
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+https://justsometime.gztv.com/sec/shenghuos.m3u8
 
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="🇨🇳福建️",福建综合 V4
 https://cntv.sbs/tv?auth=231005&id=fjzh
