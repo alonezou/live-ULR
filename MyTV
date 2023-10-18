@@ -1111,6 +1111,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="🇨🇳CHC系列,CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1,tvg-id="1905" tvg-name="1905" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="🇨🇳CHC系列",1905 V4
+http://103.45.68.47/gy/gy863/1905.php
+
+
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳4K/8K"---------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="🇨🇳4K/8K",CCTV8K
