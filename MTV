@@ -387,3 +387,16 @@ https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 #EXTINF:-1,tvg-id="韓國太妍43" tvg-name="韓國太妍43" tvg-logo="" group-title="韩国MTV",韓國太妍43
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
+
+#EXTM3U
+#EXTINF:-1,tvg-id="中文车载劲爆舞曲大串烧" tvg-name="中文车载劲爆舞曲大串烧" tvg-logo="" group-title="中文MTV",中文车载劲爆舞曲大串烧
+https://vdse.bdstatic.com//f222c3fafbcc09db6f39991e5c982450.mp4
+#EXTINF:-1,tvg-id="劲爆全中文舞曲串烧" tvg-name="劲爆全中文舞曲串烧" tvg-logo="" group-title="中文MTV",劲爆全中文舞曲串烧
+https://vdse.bdstatic.com//02a4b136a5e939a0401fc1b58eec7831.mp4
+#EXTINF:-1,tvg-id="花儿笑了DJ" tvg-name="花儿笑了DJ" tvg-logo="" group-title="中文MTV",花儿笑了DJ
+https://vd4.bdstatic.com/mda-ncj7vawq5rnk5v59/hd/cae_h264_delogo/1647759626623363912/mda-ncj7vawq5rnk5v59.mp4
+#EXTINF:-1,tvg-id="DJ信天游" tvg-name="DJ信天游" tvg-logo="" group-title="中文MTV",DJ信天游
+https://vd3.bdstatic.com/mda-nd5kjj9w1dkk13am/sc/cae_h264_delogo/1649256546383547912/mda-nd5kjj9w1dkk13am.mp4
+#EXTINF:-1,tvg-id="DJ化蝶" tvg-name="DJ化蝶" tvg-logo="" group-title="中文MTV",DJ化蝶
+https://vd4.bdstatic.com/mda-nd0if1hnkf4zzh2r/hd/cae_h264_delogo/1648822586944230351/mda-nd0if1hnkf4zzh2r.mp4
+
