@@ -362,7 +362,7 @@ https://cntv.sbs/tv/v6.php?id=zxs
 https://cntv.sbs/tv/v6.php?id=CETV-1H264
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="🇨🇳教育频道",中国教育4台
 https://cntv.sbs/tv/v6.php?id=CETV-4H264_2000
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🇨🇳其他频道",中国天气
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🇨🇳其它频道",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 
@@ -776,7 +776,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001013/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw561566041_-1017128366/ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="🇨🇳上海",上海纪实人文 8M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1558074042_116967467/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="🇨🇳上海",纪实人文
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001019/1.m3u8
 #EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="🇨🇳上海",东方影视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
@@ -1746,7 +1746,7 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1,tvg-id="番薯台]" tvg-name="番薯台" tvg-logo="https://epg.112114.xyz/logo/番薯台.png" group-title="🇨🇳港澳台常用V4",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
-#EXTINF:-1,tvg-id="travelxp" tvg-name="travelxp" tvg-logo="https://epg.112114.xyz/logo/TRAVELXP.png" group-title="其他",travelxp
+#EXTINF:-1,tvg-id="travelxp" tvg-name="travelxp" tvg-logo="https://epg.112114.xyz/logo/TRAVELXP.png" group-title="🇨🇳港澳台常用V4",travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 
@@ -2409,32 +2409,32 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/3000000010000005180/index.
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
 
-#EXTINF:-1 ---------------------------------------分割线"🇨🇳其他"---------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="🇨🇳其他",瑜伽
+#EXTINF:-1 ---------------------------------------分割线"🇨🇳其它"---------------------------------------------------------------
+#EXTINF:-1 tvg-logo="" group-title="🇨🇳其它",瑜伽
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1,tvg-id="哒啵赛事 4M1080" tvg-name="哒啵赛事 4M1080" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="🇨🇳其他",哒啵赛事 4M1080
+#EXTINF:-1,tvg-id="哒啵赛事 4M1080" tvg-name="哒啵赛事 4M1080" tvg-logo="https://epg.112114.xyz/logo/哒啵赛事.png" group-title="🇨🇳其它",哒啵赛事 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw561250760_-677742974/ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="百姓生活 4M1080" tvg-name="百姓生活 4M1080" tvg-logo="https://epg.112114.xyz/logo/百姓生活.png" group-title="🇨🇳其他",百姓生活 4M1080
+#EXTINF:-1,tvg-id="百姓生活 4M1080" tvg-name="百姓生活 4M1080" tvg-logo="https://epg.112114.xyz/logo/百姓生活.png" group-title="🇨🇳其它",百姓生活 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2443646736_1371286730/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="知否知否 4M1080" tvg-name="知否知否 4M1080" tvg-logo="https://epg.112114.xyz/logo/知否知否.png" group-title="🇨🇳其他",知否知否 4M1080
+#EXTINF:-1,tvg-id="知否知否 4M1080" tvg-name="知否知否 4M1080" tvg-logo="https://epg.112114.xyz/logo/知否知否.png" group-title="🇨🇳其它",知否知否 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 2M1080
+#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 2M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw677754739_-1516035370/ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8?icpid=3&RTS=1674380793&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 2M1080
+#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 2M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2442676925_-1293999785/ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 2M1080
+#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 2M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw4207711491_582058613/ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8?icpid=3&RTS=1674371438&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 2M1080
+#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 2M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2443156656_-1125659309/ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 2M1080
+#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 2M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443039727_1258033443/ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8?icpid=3&RTS=1674369673&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb23_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 2M1080
+#EXTINF:-1,tvg-id="未知 2M1080" tvg-name="未知 2M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 2M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw168567975_1917409784/ott.mobaibox.com/PLTV/3/224/3221228447/index.m3u8?icpid=3&RTS=1674393168&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 4M1080" tvg-name="未知 4M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 4M1080
+#EXTINF:-1,tvg-id="未知 4M1080" tvg-name="未知 4M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw698941571_-1832672106/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1674380814&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 4M1080" tvg-name="未知 4M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 4M1080
+#EXTINF:-1,tvg-id="未知 4M1080" tvg-name="未知 4M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw2444245842_-988657747/ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="未知 4M1080" tvg-name="未知 4M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其他",未知 4M1080
+#EXTINF:-1,tvg-id="未知 4M1080" tvg-name="未知 4M1080" tvg-logo="https://epg.112114.xyz/logo/未知.png" group-title="🇨🇳其它",未知 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2444135891_2133795787/ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳陕西V6"---------------------------------------------------------------
@@ -2628,9 +2628,9 @@ https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
 https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🇨🇳蜀小果V6.央视“,CCTV-4K 超高清
 https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="🇨🇳蜀小果V6.其他",4K超高清电影 4K
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="🇨🇳蜀小果V6.其它",4K超高清电影 4K
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="🇨🇳蜀小果V6.其他",欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="🇨🇳蜀小果V6.其它",欢笑剧场4K
 https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="🇨🇳蜀小果V6.香港“,凤凰中文
 https://live.goodiptv.club/api/sxg.php?id=test1_4000
@@ -2698,77 +2698,77 @@ https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
 https://live.goodiptv.club/api/sxg.php?id=ynws_4000
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="🇨🇳蜀小果V6.卫视“,浙江卫视
 https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="🇨🇳蜀小果V6.其他",CETV-1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="🇨🇳蜀小果V6.其它",CETV-1
 https://live.goodiptv.club/api/sxg.php?id=CETV-1H264_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="🇨🇳蜀小果V6.其他",CETV-4
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="🇨🇳蜀小果V6.其它",CETV-4
 https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
-#EXTINF:-1,tvg-id="风尚生活" tvg-name="风尚生活" tvg-logo="https://epg.112114.xyz/logo/风尚生活.png" group-title="🇨🇳蜀小果V6.其他",CBN风尚生活
+#EXTINF:-1,tvg-id="风尚生活" tvg-name="风尚生活" tvg-logo="https://epg.112114.xyz/logo/风尚生活.png" group-title="🇨🇳蜀小果V6.其它",CBN风尚生活
 https://live.goodiptv.club/api/sxg.php?id=fssh_4000
-#EXTINF:-1,tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://epg.112114.xyz/logo/每日影院.png" group-title="🇨🇳蜀小果V6.其他",CBN每日影院
+#EXTINF:-1,tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://epg.112114.xyz/logo/每日影院.png" group-title="🇨🇳蜀小果V6.其它",CBN每日影院
 https://live.goodiptv.club/api/sxg.php?id=mryy_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CBN幸福剧场.png" group-title="🇨🇳蜀小果V6.其他",CBN幸福剧场
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CBN幸福剧场.png" group-title="🇨🇳蜀小果V6.其它",CBN幸福剧场
 https://live.goodiptv.club/api/sxg.php?id=xfjc_4000
-#EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://epg.112114.xyz/logo/幸福娱乐.png" group-title="🇨🇳蜀小果V6.其他",CBN幸福娱乐
+#EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://epg.112114.xyz/logo/幸福娱乐.png" group-title="🇨🇳蜀小果V6.其它",CBN幸福娱乐
 https://live.goodiptv.club/api/sxg.php?id=xfyl_4000
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="🇨🇳蜀小果V6.其他",CHC动作电影
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="🇨🇳蜀小果V6.其它",CHC动作电影
 https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="🇨🇳蜀小果V6.其他",CHC高清电影
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="🇨🇳蜀小果V6.其它",CHC高清电影
 https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="🇨🇳蜀小果V6.其他",CHC家庭影院
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="🇨🇳蜀小果V6.其它",CHC家庭影院
 https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="🇨🇳蜀小果V6.其他",动漫秀场
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="🇨🇳蜀小果V6.其它",动漫秀场
 https://live.goodiptv.club/api/sxg.php?id=yybb-dmxc-H265_4000
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="🇨🇳蜀小果V6.其他",都市剧场
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="🇨🇳蜀小果V6.其它",都市剧场
 https://live.goodiptv.club/api/sxg.php?id=yxfydsjcHDH265_4000
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="🇨🇳蜀小果V6.其他",法治天地
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="🇨🇳蜀小果V6.其它",法治天地
 https://live.goodiptv.club/api/sxg.php?id=fztx_4000
-#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="🇨🇳蜀小果V6.其他",极速汽车
+#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="🇨🇳蜀小果V6.其它",极速汽车
 https://live.goodiptv.club/api/sxg.php?id=jsqcH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="🇨🇳蜀小果V6.其他",纪实科教
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="🇨🇳蜀小果V6.其它",纪实科教
 https://live.goodiptv.club/api/sxg.php?id=bjjs_2000
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="🇨🇳蜀小果V6.其他",嘉佳卡通
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="🇨🇳蜀小果V6.其它",嘉佳卡通
 https://live.goodiptv.club/api/sxg.php?id=jjkt_2000
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="🇨🇳蜀小果V6.其他",家庭理财
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="🇨🇳蜀小果V6.其它",家庭理财
 https://live.goodiptv.club/api/sxg.php?id=jtlc_4000
 #EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="江苏",江苏财富天下
 https://live.goodiptv.club/api/sxg.php?id=cftx_4000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="🇨🇳蜀小果V6.其他",金鹰纪实
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="🇨🇳蜀小果V6.其它",金鹰纪实
 https://live.goodiptv.club/api/sxg.php?id=jyjsHDH265_4000
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="🇨🇳蜀小果V6.其他",金鹰卡通
+#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="🇨🇳蜀小果V6.其它",金鹰卡通
 https://live.goodiptv.club/api/sxg.php?id=jykt_2000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="🇨🇳蜀小果V6.其他",劲爆体育
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="🇨🇳蜀小果V6.其它",劲爆体育
 https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="🇨🇳蜀小果V6.其他",聚鲨环球精选
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="🇨🇳蜀小果V6.其它",聚鲨环球精选
 https://live.goodiptv.club/api/sxg.php?id=jshqjxHD_4000
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="🇨🇳蜀小果V6.其他",卡酷少儿
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="🇨🇳蜀小果V6.其它",卡酷少儿
 https://live.goodiptv.club/api/sxg.php?id=kkkt_4000
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="🇨🇳蜀小果V6.其他",快乐垂钓
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="🇨🇳蜀小果V6.其它",快乐垂钓
 https://live.goodiptv.club/api/sxg.php?id=fyzqklcdHDH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="🇨🇳蜀小果V6.其他",乐游
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="🇨🇳蜀小果V6.其它",乐游
 https://live.goodiptv.club/api/sxg.php?id=qjs-HDH265_4000
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="🇨🇳蜀小果V6.其他",梨园频道
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="🇨🇳蜀小果V6.其它",梨园频道
 https://live.goodiptv.club/api/sxg.php?id=ly_4000
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="🇨🇳蜀小果V6.其他",魅力足球
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="🇨🇳蜀小果V6.其它",魅力足球
 https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="🇨🇳蜀小果V6.其他",七彩戏剧
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="🇨🇳蜀小果V6.其它",七彩戏剧
 https://live.goodiptv.club/api/sxg.php?id=qcxj_2000
-#EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://epg.112114.xyz/logo/摄影.png" group-title="🇨🇳蜀小果V6.其他",摄影频道
+#EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://epg.112114.xyz/logo/摄影.png" group-title="🇨🇳蜀小果V6.其它",摄影频道
 https://live.goodiptv.club/api/sxg.php?id=sy_4000
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="🇨🇳蜀小果V6.其他",生活时尚
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="🇨🇳蜀小果V6.其它",生活时尚
 https://live.goodiptv.club/api/sxg.php?id=shssH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="🇨🇳蜀小果V6.其他",四海钓鱼
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="🇨🇳蜀小果V6.其它",四海钓鱼
 https://live.goodiptv.club/api/sxg.php?id=shdy_4000
-#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="🇨🇳蜀小果V6.其他",天元围棋
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="🇨🇳蜀小果V6.其它",天元围棋
 https://live.goodiptv.club/api/sxg.php?id=tywq_2000
-#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="🇨🇳蜀小果V6.其他",武术世界
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="🇨🇳蜀小果V6.其它",武术世界
 https://live.goodiptv.club/api/sxg.php?id=wssj_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="🇨🇳蜀小果V6.其他",先锋乒羽
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="🇨🇳蜀小果V6.其它",先锋乒羽
 https://live.goodiptv.club/api/sxg.php?id=xfpy_4000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="🇨🇳蜀小果V6.其他",新视觉
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="🇨🇳蜀小果V6.其它",新视觉
 https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/证劵服务.png" group-title="🇨🇳蜀小果V6.其他",证劵服务
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/证劵服务.png" group-title="🇨🇳蜀小果V6.其它",证劵服务
 https://live.goodiptv.club/api/sxg.php?id=jz_2000
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="🇨🇳蜀小果V6.其他",中国天气
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="🇨🇳蜀小果V6.其它",中国天气
 https://live.goodiptv.club/api/sxg.php?id=zgqx_4000
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="🇨🇳蜀小果V6.央视“,中央新影-发现之旅
 https://live.goodiptv.club/api/sxg.php?id=fxzl_2000
@@ -2776,13 +2776,13 @@ https://live.goodiptv.club/api/sxg.php?id=fxzl_2000
 https://live.goodiptv.club/api/sxg.php?id=lgs_2000
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.112114.xyz/logo/中学生.png" group-title="🇨🇳蜀小果V6.央视“,中央新影-中学生
 https://live.goodiptv.club/api/sxg.php?id=zxs_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/川广融媒.png" group-title="🇨🇳蜀小果V6.其他",川广融媒
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/川广融媒.png" group-title="🇨🇳蜀小果V6.其它",川广融媒
 https://live.goodiptv.club/api/sxg.php?id=cgrh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/川网导视.png" group-title="🇨🇳蜀小果V6.其他",川网导视
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/川网导视.png" group-title="🇨🇳蜀小果V6.其它",川网导视
 https://live.goodiptv.club/api/sxg.php?id=cwdsHDH264_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/精品导视.png" group-title="🇨🇳蜀小果V6.其他",精品导视
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/精品导视.png" group-title="🇨🇳蜀小果V6.其它",精品导视
 https://live.goodiptv.club/api/sxg.php?id=jpdsH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沙湾融媒.png" group-title="🇨🇳蜀小果V6.其他",沙湾融媒
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沙湾融媒.png" group-title="🇨🇳蜀小果V6.其它",沙湾融媒
 https://live.goodiptv.club/api/sxg.php?id=swxwzh_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/四川文化旅游.png" group-title="四川",四川文化旅游
 https://live.goodiptv.club/api/sxg.php?id=SCTV-2-H265_4000
@@ -2800,329 +2800,329 @@ https://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000
 https://live.goodiptv.club/api/sxg.php?id=SCTV-kjSCTV-9-_4000
 #EXTINF:-1,tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨嵋电影.png" group-title="四川",四川峨嵋电影
 https://live.goodiptv.club/api/sxg.php?id=emdygqH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都新闻综合.png" group-title="🇨🇳蜀小果V6.其他",成都新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都新闻综合.png" group-title="🇨🇳蜀小果V6.其它",成都新闻综合
 https://live.goodiptv.club/api/sxg.php?id=CDTV-1_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都经济资讯.png" group-title="🇨🇳蜀小果V6.其他",成都经济资讯
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都经济资讯.png" group-title="🇨🇳蜀小果V6.其它",成都经济资讯
 https://live.goodiptv.club/api/sxg.php?id=CDTV-2_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都都市生活.png" group-title="🇨🇳蜀小果V6.其他",成都都市生活
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都都市生活.png" group-title="🇨🇳蜀小果V6.其它",成都都市生活
 https://live.goodiptv.club/api/sxg.php?id=CDTV-3_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都影视文艺.png" group-title="🇨🇳蜀小果V6.其他",成都影视文艺
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都影视文艺.png" group-title="🇨🇳蜀小果V6.其它",成都影视文艺
 https://live.goodiptv.club/api/sxg.php?id=CDTV-4_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都公共.png" group-title="🇨🇳蜀小果V6.其他",成都公共频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都公共.png" group-title="🇨🇳蜀小果V6.其它",成都公共频道
 https://live.goodiptv.club/api/sxg.php?id=CDTV-5_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都高新区.png" group-title="🇨🇳蜀小果V6.其他",成都高新区
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都高新区.png" group-title="🇨🇳蜀小果V6.其它",成都高新区
 https://live.goodiptv.club/api/sxg.php?id=cdgxdstgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都每日购物.png" group-title="🇨🇳蜀小果V6.其他",成都每日购物
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/成都每日购物.png" group-title="🇨🇳蜀小果V6.其它",成都每日购物
 https://live.goodiptv.club/api/sxg.php?id=mrgw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阿坝州TV.png" group-title="🇨🇳蜀小果V6.其他",阿坝州TV
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阿坝州TV.png" group-title="🇨🇳蜀小果V6.其它",阿坝州TV
 https://live.goodiptv.club/api/sxg.php?id=abxwzhpdgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阿坝州藏语.png" group-title="🇨🇳蜀小果V6.其他",阿坝州藏语
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阿坝州藏语.png" group-title="🇨🇳蜀小果V6.其它",阿坝州藏语
 https://live.goodiptv.club/api/sxg.php?id=wypdgqH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/安居综合.png" group-title="🇨🇳蜀小果V6.其他",安居综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/安居综合.png" group-title="🇨🇳蜀小果V6.其它",安居综合
 https://live.goodiptv.club/api/sxg.php?id=ajxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/安岳综合.png" group-title="🇨🇳蜀小果V6.其他",安岳综合频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/安岳综合.png" group-title="🇨🇳蜀小果V6.其它",安岳综合频道
 https://live.goodiptv.club/api/sxg.php?id=ayxwzh_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/安州综合.png" group-title="🇨🇳蜀小果V6.其他",安州综合频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/安州综合.png" group-title="🇨🇳蜀小果V6.其它",安州综合频道
 https://live.goodiptv.club/api/sxg.php?id=azgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/巴中文旅生活.png" group-title="🇨🇳蜀小果V6.其他",巴中文旅生活
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/巴中文旅生活.png" group-title="🇨🇳蜀小果V6.其它",巴中文旅生活
 https://live.goodiptv.club/api/sxg.php?id=bzetH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/巴中综合.png" group-title="🇨🇳蜀小果V6.其他",巴中综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/巴中综合.png" group-title="🇨🇳蜀小果V6.其它",巴中综合
 https://live.goodiptv.club/api/sxg.php?id=bzytH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/巴州电视.png" group-title="🇨🇳蜀小果V6.其他",巴州电视
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/巴州电视.png" group-title="🇨🇳蜀小果V6.其它",巴州电视
 https://live.goodiptv.club/api/sxg.php?id=bzxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝兴综合.png" group-title="🇨🇳蜀小果V6.其他",宝兴综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝兴综合.png" group-title="🇨🇳蜀小果V6.其它",宝兴综合
 https://live.goodiptv.club/api/sxg.php?id=bxdst_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北川综合.png" group-title="🇨🇳蜀小果V6.其他",北川综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/北川综合.png" group-title="🇨🇳蜀小果V6.其它",北川综合
 https://live.goodiptv.club/api/sxg.php?id=bcxwHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/苍溪综合.png" group-title="🇨🇳蜀小果V6.其他",苍溪综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/苍溪综合.png" group-title="🇨🇳蜀小果V6.其它",苍溪综合
 https://live.goodiptv.club/api/sxg.php?id=cxxwgqH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/长宁综合.png" group-title="🇨🇳蜀小果V6.其他",长宁综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/长宁综合.png" group-title="🇨🇳蜀小果V6.其它",长宁综合
 https://live.goodiptv.club/api/sxg.php?id=znzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/朝天综合.png" group-title="🇨🇳蜀小果V6.其他",朝天综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/朝天综合.png" group-title="🇨🇳蜀小果V6.其它",朝天综合
 https://live.goodiptv.club/api/sxg.php?id=ctxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/崇州.png" group-title="🇨🇳蜀小果V6.其他",崇州
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/崇州.png" group-title="🇨🇳蜀小果V6.其它",崇州
 https://live.goodiptv.club/api/sxg.php?id=czyt_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/船山综合.png" group-title="🇨🇳蜀小果V6.其他",船山综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/船山综合.png" group-title="🇨🇳蜀小果V6.其它",船山综合
 https://live.goodiptv.club/api/sxg.php?id=csxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达川新闻综合.png" group-title="🇨🇳蜀小果V6.其他",达川新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达川新闻综合.png" group-title="🇨🇳蜀小果V6.其它",达川新闻综合
 https://live.goodiptv.club/api/sxg.php?id=dcxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州导视.png" group-title="🇨🇳蜀小果V6.其他",达州导视
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州导视.png" group-title="🇨🇳蜀小果V6.其它",达州导视
 https://live.goodiptv.club/api/sxg.php?id=dzds_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州公共.png" group-title="🇨🇳蜀小果V6.其他",达州公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州公共.png" group-title="🇨🇳蜀小果V6.其它",达州公共
 https://live.goodiptv.club/api/sxg.php?id=dzgg_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州通川.png" group-title="🇨🇳蜀小果V6.其他",达州通川
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州通川.png" group-title="🇨🇳蜀小果V6.其它",达州通川
 https://live.goodiptv.club/api/sxg.php?id=tcq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州新闻综合.png" group-title="🇨🇳蜀小果V6.其他",达州新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/达州新闻综合.png" group-title="🇨🇳蜀小果V6.其它",达州新闻综合
 https://live.goodiptv.club/api/sxg.php?id=dzxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大邑电视台.png" group-title="🇨🇳蜀小果V6.其他",大邑电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大邑电视台.png" group-title="🇨🇳蜀小果V6.其它",大邑电视台
 https://live.goodiptv.club/api/sxg.php?id=dyytH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大英新闻综合.png" group-title="🇨🇳蜀小果V6.其他",大英新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/大英新闻综合.png" group-title="🇨🇳蜀小果V6.其它",大英新闻综合
 https://live.goodiptv.club/api/sxg.php?id=dyxwzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/丹棱综合.png" group-title="🇨🇳蜀小果V6.其他",丹棱综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/丹棱综合.png" group-title="🇨🇳蜀小果V6.其它",丹棱综合
 https://live.goodiptv.club/api/sxg.php?id=dlxwzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/德昌电视台.png" group-title="🇨🇳蜀小果V6.其他",德昌电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/德昌电视台.png" group-title="🇨🇳蜀小果V6.其它",德昌电视台
 https://live.goodiptv.club/api/sxg.php?id=dcxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东兴综合.png" group-title="🇨🇳蜀小果V6.其他",东兴综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东兴综合.png" group-title="🇨🇳蜀小果V6.其它",东兴综合
 https://live.goodiptv.club/api/sxg.php?id=dxxwzh_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/都江堰.png" group-title="🇨🇳蜀小果V6.其他",都江堰
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/都江堰.png" group-title="🇨🇳蜀小果V6.其它",都江堰
 https://live.goodiptv.club/api/sxg.php?id=djyzh_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/峨边电视台.png" group-title="🇨🇳蜀小果V6.其他",峨边电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/峨边电视台.png" group-title="🇨🇳蜀小果V6.其它",峨边电视台
 https://live.goodiptv.club/api/sxg.php?id=ebdst_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/峨眉综合.png" group-title="🇨🇳蜀小果V6.其他",峨眉综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/峨眉综合.png" group-title="🇨🇳蜀小果V6.其它",峨眉综合
 https://live.goodiptv.club/api/sxg.php?id=emsxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/恩阳新闻.png" group-title="🇨🇳蜀小果V6.其他",恩阳新闻
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/恩阳新闻.png" group-title="🇨🇳蜀小果V6.其它",恩阳新闻
 https://live.goodiptv.club/api/sxg.php?id=eyxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/涪城综合.png" group-title="🇨🇳蜀小果V6.其他",涪城综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/涪城综合.png" group-title="🇨🇳蜀小果V6.其它",涪城综合
 https://live.goodiptv.club/api/sxg.php?id=fcgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/富顺综合.png" group-title="🇨🇳蜀小果V6.其他",富顺综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/富顺综合.png" group-title="🇨🇳蜀小果V6.其它",富顺综合
 https://live.goodiptv.club/api/sxg.php?id=fszh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/甘洛.png" group-title="🇨🇳蜀小果V6.其他",甘洛
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/甘洛.png" group-title="🇨🇳蜀小果V6.其它",甘洛
 https://live.goodiptv.club/api/sxg.php?id=glt_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/甘孜综合.png" group-title="🇨🇳蜀小果V6.其他",甘孜综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/甘孜综合.png" group-title="🇨🇳蜀小果V6.其它",甘孜综合
 https://live.goodiptv.club/api/sxg.php?id=gzxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/高县1.png" group-title="🇨🇳蜀小果V6.其他",高县-1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/高县1.png" group-title="🇨🇳蜀小果V6.其它",高县-1
 https://live.goodiptv.club/api/sxg.php?id=gxt_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/古蔺新闻综合.png" group-title="🇨🇳蜀小果V6.其他",古蔺新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/古蔺新闻综合.png" group-title="🇨🇳蜀小果V6.其它",古蔺新闻综合
 https://live.goodiptv.club/api/sxg.php?id=glxwzhgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广安公共.png" group-title="🇨🇳蜀小果V6.其他",广安公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广安公共.png" group-title="🇨🇳蜀小果V6.其它",广安公共
 https://live.goodiptv.club/api/sxg.php?id=gagg_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广安区电视台.png" group-title="🇨🇳蜀小果V6.其他",广安区电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广安区电视台.png" group-title="🇨🇳蜀小果V6.其它",广安区电视台
 https://live.goodiptv.club/api/sxg.php?id=gaqxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广安新闻综合.png" group-title="🇨🇳蜀小果V6.其他",广安新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广安新闻综合.png" group-title="🇨🇳蜀小果V6.其它",广安新闻综合
 https://live.goodiptv.club/api/sxg.php?id=gaxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广汉综合.png" group-title="🇨🇳蜀小果V6.其他",广汉综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广汉综合.png" group-title="🇨🇳蜀小果V6.其它",广汉综合
 https://live.goodiptv.club/api/sxg.php?id=ghxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广元文化生活.png" group-title="🇨🇳蜀小果V6.其他",广元文化生活
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广元文化生活.png" group-title="🇨🇳蜀小果V6.其它",广元文化生活
 https://live.goodiptv.club/api/sxg.php?id=gyggH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广元综合.png" group-title="🇨🇳蜀小果V6.其他",广元综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/广元综合.png" group-title="🇨🇳蜀小果V6.其它",广元综合
 https://live.goodiptv.club/api/sxg.php?id=gyzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汉源综合.png" group-title="🇨🇳蜀小果V6.其他",汉源综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/汉源综合.png" group-title="🇨🇳蜀小果V6.其它",汉源综合
 https://live.goodiptv.club/api/sxg.php?id=hyxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/合江新闻综合.png" group-title="🇨🇳蜀小果V6.其他",合江新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/合江新闻综合.png" group-title="🇨🇳蜀小果V6.其它",合江新闻综合
 https://live.goodiptv.club/api/sxg.php?id=hjxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/黑水.png" group-title="🇨🇳蜀小果V6.其他",黑水
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/黑水.png" group-title="🇨🇳蜀小果V6.其它",黑水
 https://live.goodiptv.club/api/sxg.php?id=hsxwzhpdH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/洪雅新闻综合.png" group-title="🇨🇳蜀小果V6.其他",洪雅新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/洪雅新闻综合.png" group-title="🇨🇳蜀小果V6.其它",洪雅新闻综合
 https://live.goodiptv.club/api/sxg.php?id=hyzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华蓥综合.png" group-title="🇨🇳蜀小果V6.其他",华蓥综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华蓥综合.png" group-title="🇨🇳蜀小果V6.其它",华蓥综合
 https://live.goodiptv.club/api/sxg.php?id=hyxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/会理新闻.png" group-title="🇨🇳蜀小果V6.其他",会理新闻
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/会理新闻.png" group-title="🇨🇳蜀小果V6.其它",会理新闻
 https://live.goodiptv.club/api/sxg.php?id=hlyt_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/夹江新闻综合.png" group-title="🇨🇳蜀小果V6.其他",夹江新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/夹江新闻综合.png" group-title="🇨🇳蜀小果V6.其它",夹江新闻综合
 https://live.goodiptv.club/api/sxg.php?id=jjxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/简阳新闻综合.png" group-title="🇨🇳蜀小果V6.其他",简阳新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/简阳新闻综合.png" group-title="🇨🇳蜀小果V6.其它",简阳新闻综合
 https://live.goodiptv.club/api/sxg.php?id=jyxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/剑阁综合.png" group-title="🇨🇳蜀小果V6.其他",剑阁综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/剑阁综合.png" group-title="🇨🇳蜀小果V6.其它",剑阁综合
 https://live.goodiptv.club/api/sxg.php?id=jgxwzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江安电视台.png" group-title="🇨🇳蜀小果V6.其他",江安电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江安电视台.png" group-title="🇨🇳蜀小果V6.其它",江安电视台
 https://live.goodiptv.club/api/sxg.php?id=jat_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江油综合.png" group-title="🇨🇳蜀小果V6.其他",江油综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江油综合.png" group-title="🇨🇳蜀小果V6.其它",江油综合
 https://live.goodiptv.club/api/sxg.php?id=jyxwHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金口河综合.png" group-title="🇨🇳蜀小果V6.其他",金口河综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金口河综合.png" group-title="🇨🇳蜀小果V6.其它",金口河综合
 https://live.goodiptv.club/api/sxg.php?id=jkhdst_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金牛.png" group-title="🇨🇳蜀小果V6.其他",金牛
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金牛.png" group-title="🇨🇳蜀小果V6.其它",金牛
 https://live.goodiptv.club/api/sxg.php?id=jnyx_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金堂电视台.png" group-title="🇨🇳蜀小果V6.其他",金堂电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/金堂电视台.png" group-title="🇨🇳蜀小果V6.其它",金堂电视台
 https://live.goodiptv.club/api/sxg.php?id=jtzhpd_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/开江新闻综合.png" group-title="🇨🇳蜀小果V6.其他",开江新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/开江新闻综合.png" group-title="🇨🇳蜀小果V6.其它",开江新闻综合
 https://live.goodiptv.club/api/sxg.php?id=kjxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐山公共.png" group-title="🇨🇳蜀小果V6.其他",乐山公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐山公共.png" group-title="🇨🇳蜀小果V6.其它",乐山公共
 https://live.goodiptv.club/api/sxg.php?id=lsggpd_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐山新闻综合.png" group-title="🇨🇳蜀小果V6.其他",乐山新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/乐山新闻综合.png" group-title="🇨🇳蜀小果V6.其它",乐山新闻综合
 https://live.goodiptv.club/api/sxg.php?id=lsxwzh_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/利州综合.png" group-title="🇨🇳蜀小果V6.其他",利州综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/利州综合.png" group-title="🇨🇳蜀小果V6.其它",利州综合
 https://live.goodiptv.club/api/sxg.php?id=lzxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/凉山新闻综合.png" group-title="🇨🇳蜀小果V6.其他",凉山新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/凉山新闻综合.png" group-title="🇨🇳蜀小果V6.其它",凉山新闻综合
 https://live.goodiptv.club/api/sxg.php?id=lsxwHDH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/凉山彝语综合.png" group-title="🇨🇳蜀小果V6.其他",凉山彝语综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/凉山彝语综合.png" group-title="🇨🇳蜀小果V6.其它",凉山彝语综合
 https://live.goodiptv.club/api/sxg.php?id=yyzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/邻水.png" group-title="🇨🇳蜀小果V6.其他",邻水
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/邻水.png" group-title="🇨🇳蜀小果V6.其它",邻水
 https://live.goodiptv.club/api/sxg.php?id=lsxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/龙泉综合.png" group-title="🇨🇳蜀小果V6.其他",龙泉综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/龙泉综合.png" group-title="🇨🇳蜀小果V6.其它",龙泉综合
 https://live.goodiptv.club/api/sxg.php?id=lqxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/隆昌综合.png" group-title="🇨🇳蜀小果V6.其他",隆昌综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/隆昌综合.png" group-title="🇨🇳蜀小果V6.其它",隆昌综合
 https://live.goodiptv.club/api/sxg.php?id=lcxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芦山综合.png" group-title="🇨🇳蜀小果V6.其他",芦山综合频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/芦山综合.png" group-title="🇨🇳蜀小果V6.其它",芦山综合频道
 https://live.goodiptv.club/api/sxg.php?id=lszh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗江.png" group-title="🇨🇳蜀小果V6.其他",罗江
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/罗江.png" group-title="🇨🇳蜀小果V6.其它",罗江
 https://live.goodiptv.club/api/sxg.php?id=ljxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/马边综合.png" group-title="🇨🇳蜀小果V6.其他",马边综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/马边综合.png" group-title="🇨🇳蜀小果V6.其它",马边综合
 https://live.goodiptv.club/api/sxg.php?id=mbxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/马尔康.png" group-title="🇨🇳蜀小果V6.其他",马尔康
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/马尔康.png" group-title="🇨🇳蜀小果V6.其它",马尔康
 https://live.goodiptv.club/api/sxg.php?id=mekxwzhpd_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/眉山综合.png" group-title="🇨🇳蜀小果V6.其他",眉山综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/眉山综合.png" group-title="🇨🇳蜀小果V6.其它",眉山综合
 https://live.goodiptv.club/api/sxg.php?id=msxwzhgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/米易综合.png" group-title="🇨🇳蜀小果V6.其他",米易综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/米易综合.png" group-title="🇨🇳蜀小果V6.其它",米易综合
 https://live.goodiptv.club/api/sxg.php?id=myxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/绵阳科技.png" group-title="🇨🇳蜀小果V6.其他",绵阳科技
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/绵阳科技.png" group-title="🇨🇳蜀小果V6.其它",绵阳科技
 https://live.goodiptv.club/api/sxg.php?id=myetH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/绵阳新闻综合.png" group-title="🇨🇳蜀小果V6.其他",绵阳新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/绵阳新闻综合.png" group-title="🇨🇳蜀小果V6.其它",绵阳新闻综合
 https://live.goodiptv.club/api/sxg.php?id=myytH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/绵竹.png" group-title="🇨🇳蜀小果V6.其他",绵竹
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/绵竹.png" group-title="🇨🇳蜀小果V6.其它",绵竹
 https://live.goodiptv.club/api/sxg.php?id=mzxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/冕宁综合.png" group-title="🇨🇳蜀小果V6.其他",冕宁综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/冕宁综合.png" group-title="🇨🇳蜀小果V6.其它",冕宁综合
 https://live.goodiptv.club/api/sxg.php?id=mnxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/名山电视台.png" group-title="🇨🇳蜀小果V6.其他",名山电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/名山电视台.png" group-title="🇨🇳蜀小果V6.其它",名山电视台
 https://live.goodiptv.club/api/sxg.php?id=msdstH265_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/木里.png" group-title="🇨🇳蜀小果V6.其他",木里
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/木里.png" group-title="🇨🇳蜀小果V6.其它",木里
 https://live.goodiptv.club/api/sxg.php?id=mltHD_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纳溪1.png" group-title="🇨🇳蜀小果V6.其他",纳溪-1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/纳溪1.png" group-title="🇨🇳蜀小果V6.其它",纳溪-1
 https://live.goodiptv.club/api/sxg.php?id=nxxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南部综合.png" group-title="🇨🇳蜀小果V6.其他",南部综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南部综合.png" group-title="🇨🇳蜀小果V6.其它",南部综合
 https://live.goodiptv.club/api/sxg.php?id=nbxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南充综合.png" group-title="🇨🇳蜀小果V6.其他",南充综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南充综合.png" group-title="🇨🇳蜀小果V6.其它",南充综合
 https://live.goodiptv.club/api/sxg.php?id=ncxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南江电视台.png" group-title="🇨🇳蜀小果V6.其他",南江电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南江电视台.png" group-title="🇨🇳蜀小果V6.其它",南江电视台
 https://live.goodiptv.club/api/sxg.php?id=njxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南溪综合.png" group-title="🇨🇳蜀小果V6.其他",南溪综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南溪综合.png" group-title="🇨🇳蜀小果V6.其它",南溪综合
 https://live.goodiptv.club/api/sxg.php?id=nxt_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/内江公共.png" group-title="🇨🇳蜀小果V6.其他",内江公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/内江公共.png" group-title="🇨🇳蜀小果V6.其它",内江公共
 https://live.goodiptv.club/api/sxg.php?id=njgg_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/内江综合.png" group-title="🇨🇳蜀小果V6.其他",内江综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/内江综合.png" group-title="🇨🇳蜀小果V6.其它",内江综合
 https://live.goodiptv.club/api/sxg.php?id=njzh_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宁南综合.png" group-title="🇨🇳蜀小果V6.其他",宁南综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宁南综合.png" group-title="🇨🇳蜀小果V6.其它",宁南综合
 https://live.goodiptv.club/api/sxg.php?id=nnt_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/攀钢新闻综合.png" group-title="🇨🇳蜀小果V6.其他",攀钢新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/攀钢新闻综合.png" group-title="🇨🇳蜀小果V6.其它",攀钢新闻综合
 https://live.goodiptv.club/api/sxg.php?id=pgxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/攀枝花新闻综合.png" group-title="🇨🇳蜀小果V6.其他",攀枝花新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/攀枝花新闻综合.png" group-title="🇨🇳蜀小果V6.其它",攀枝花新闻综合
 https://live.goodiptv.club/api/sxg.php?id=pzhytH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/彭山综合.png" group-title="🇨🇳蜀小果V6.其他",彭山综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/彭山综合.png" group-title="🇨🇳蜀小果V6.其它",彭山综合
 https://live.goodiptv.club/api/sxg.php?id=pszh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/彭州综合.png" group-title="🇨🇳蜀小果V6.其他",彭州综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/彭州综合.png" group-title="🇨🇳蜀小果V6.其它",彭州综合
 https://live.goodiptv.club/api/sxg.php?id=pzxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/蓬安综合.png" group-title="🇨🇳蜀小果V6.其他",蓬安综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/蓬安综合.png" group-title="🇨🇳蜀小果V6.其它",蓬安综合
 https://live.goodiptv.club/api/sxg.php?id=pazh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/蓬溪新闻综合.png" group-title="🇨🇳蜀小果V6.其他",蓬溪新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/蓬溪新闻综合.png" group-title="🇨🇳蜀小果V6.其它",蓬溪新闻综合
 https://live.goodiptv.club/api/sxg.php?id=pxxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/平昌综合.png" group-title="🇨🇳蜀小果V6.其他",平昌综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/平昌综合.png" group-title="🇨🇳蜀小果V6.其它",平昌综合
 https://live.goodiptv.club/api/sxg.php?id=pcxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/平武综合.png" group-title="🇨🇳蜀小果V6.其他",平武综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/平武综合.png" group-title="🇨🇳蜀小果V6.其它",平武综合
 https://live.goodiptv.club/api/sxg.php?id=pwgq_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/屏山综合.png" group-title="🇨🇳蜀小果V6.其他",屏山综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/屏山综合.png" group-title="🇨🇳蜀小果V6.其它",屏山综合
 https://live.goodiptv.club/api/sxg.php?id=psxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/蒲江综合.png" group-title="🇨🇳蜀小果V6.其他",蒲江综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/蒲江综合.png" group-title="🇨🇳蜀小果V6.其它",蒲江综合
 https://live.goodiptv.club/api/sxg.php?id=pjxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/普格综合.png" group-title="🇨🇳蜀小果V6.其他",普格综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/普格综合.png" group-title="🇨🇳蜀小果V6.其它",普格综合
 https://live.goodiptv.club/api/sxg.php?id=pgt_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/前锋.png" group-title="🇨🇳蜀小果V6.其他",前锋
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/前锋.png" group-title="🇨🇳蜀小果V6.其它",前锋
 https://live.goodiptv.club/api/sxg.php?id=qfxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青白江综合.png" group-title="🇨🇳蜀小果V6.其他",青白江综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青白江综合.png" group-title="🇨🇳蜀小果V6.其它",青白江综合
 https://live.goodiptv.club/api/sxg.php?id=qbjxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青川综合.png" group-title="🇨🇳蜀小果V6.其他",青川综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青川综合.png" group-title="🇨🇳蜀小果V6.其它",青川综合
 https://live.goodiptv.club/api/sxg.php?id=qcxwzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青神综合.png" group-title="🇨🇳蜀小果V6.其他",青神综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青神综合.png" group-title="🇨🇳蜀小果V6.其它",青神综合
 https://live.goodiptv.club/api/sxg.php?id=qszh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/渠县新闻综合.png" group-title="🇨🇳蜀小果V6.其他",渠县新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/渠县新闻综合.png" group-title="🇨🇳蜀小果V6.其它",渠县新闻综合
 https://live.goodiptv.club/api/sxg.php?id=qxxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/仁和新闻.png" group-title="🇨🇳蜀小果V6.其他",仁和新闻
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/仁和新闻.png" group-title="🇨🇳蜀小果V6.其它",仁和新闻
 https://live.goodiptv.club/api/sxg.php?id=rhxwH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荣县综合.png" group-title="🇨🇳蜀小果V6.其他",荣县综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荣县综合.png" group-title="🇨🇳蜀小果V6.其它",荣县综合
 https://live.goodiptv.club/api/sxg.php?id=rxzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三台TV.png" group-title="🇨🇳蜀小果V6.其他",三台TV
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/三台TV.png" group-title="🇨🇳蜀小果V6.其它",三台TV
 https://live.goodiptv.club/api/sxg.php?id=stxwHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/射洪综合.png" group-title="🇨🇳蜀小果V6.其他",射洪综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/射洪综合.png" group-title="🇨🇳蜀小果V6.其它",射洪综合
 https://live.goodiptv.club/api/sxg.php?id=shzhH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石棉.png" group-title="🇨🇳蜀小果V6.其他",石棉
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石棉.png" group-title="🇨🇳蜀小果V6.其它",石棉
 https://live.goodiptv.club/api/sxg.php?id=smxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/什邡新闻综合.png" group-title="🇨🇳蜀小果V6.其他",什邡新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/什邡新闻综合.png" group-title="🇨🇳蜀小果V6.其它",什邡新闻综合
 https://live.goodiptv.club/api/sxg.php?id=sfx_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/双流综合.png" group-title="🇨🇳蜀小果V6.其他",双流综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/双流综合.png" group-title="🇨🇳蜀小果V6.其它",双流综合
 https://live.goodiptv.club/api/sxg.php?id=slgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/松潘.png" group-title="🇨🇳蜀小果V6.其他",松潘
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/松潘.png" group-title="🇨🇳蜀小果V6.其它",松潘
 https://live.goodiptv.club/api/sxg.php?id=spxwzhpdH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/遂宁综合.png" group-title="🇨🇳蜀小果V6.其他",遂宁综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/遂宁综合.png" group-title="🇨🇳蜀小果V6.其它",遂宁综合
 https://live.goodiptv.club/api/sxg.php?id=snxwzhHDH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/天全新闻.png" group-title="🇨🇳蜀小果V6.其他",天全新闻
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/天全新闻.png" group-title="🇨🇳蜀小果V6.其它",天全新闻
 https://live.goodiptv.club/api/sxg.php?id=tqzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/通川区.png" group-title="🇨🇳蜀小果V6.其他",通川区
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/通川区.png" group-title="🇨🇳蜀小果V6.其它",通川区
 https://live.goodiptv.club/api/sxg.php?id=xcxwzhH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/通江综合.png" group-title="🇨🇳蜀小果V6.其他",通江综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/通江综合.png" group-title="🇨🇳蜀小果V6.其它",通江综合
 https://live.goodiptv.club/api/sxg.php?id=tjxwH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/万源.png" group-title="🇨🇳蜀小果V6.其他",万源
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/万源.png" group-title="🇨🇳蜀小果V6.其它",万源
 https://live.goodiptv.club/api/sxg.php?id=wyxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/旺苍新闻综合.png" group-title="🇨🇳蜀小果V6.其他",旺苍新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/旺苍新闻综合.png" group-title="🇨🇳蜀小果V6.其它",旺苍新闻综合
 https://live.goodiptv.club/api/sxg.php?id=wcxwzhH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/温江综合.png" group-title="🇨🇳蜀小果V6.其他",温江综合频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/温江综合.png" group-title="🇨🇳蜀小果V6.其它",温江综合频道
 https://live.goodiptv.club/api/sxg.php?id=wjytH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/武胜综合.png" group-title="🇨🇳蜀小果V6.其他",武胜综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/武胜综合.png" group-title="🇨🇳蜀小果V6.其它",武胜综合
 https://live.goodiptv.club/api/sxg.php?id=wsxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/五通桥.png" group-title="🇨🇳蜀小果V6.其他",五通桥
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/五通桥.png" group-title="🇨🇳蜀小果V6.其它",五通桥
 https://live.goodiptv.club/api/sxg.php?id=wtqxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/西昌.png" group-title="🇨🇳蜀小果V6.其他",西昌
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/西昌.png" group-title="🇨🇳蜀小果V6.其它",西昌
 https://live.goodiptv.club/api/sxg.php?id=xctHD_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/西充综合.png" group-title="🇨🇳蜀小果V6.其他",西充综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/西充综合.png" group-title="🇨🇳蜀小果V6.其它",西充综合
 https://live.goodiptv.club/api/sxg.php?id=xczh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/喜德.png" group-title="🇨🇳蜀小果V6.其他",喜德
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/喜德.png" group-title="🇨🇳蜀小果V6.其它",喜德
 https://live.goodiptv.club/api/sxg.php?id=xdxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/新都综合.png" group-title="🇨🇳蜀小果V6.其他",新都综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/新都综合.png" group-title="🇨🇳蜀小果V6.其它",新都综合
 https://live.goodiptv.club/api/sxg.php?id=xdzhpd_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/新津.png" group-title="🇨🇳蜀小果V6.其他",新津
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/新津.png" group-title="🇨🇳蜀小果V6.其它",新津
 https://live.goodiptv.club/api/sxg.php?id=xjzh_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/兴文电视台.png" group-title="🇨🇳蜀小果V6.其他",兴文电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/兴文电视台.png" group-title="🇨🇳蜀小果V6.其它",兴文电视台
 https://live.goodiptv.club/api/sxg.php?id=xwt_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/叙永电视台.png" group-title="🇨🇳蜀小果V6.其他",叙永电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/叙永电视台.png" group-title="🇨🇳蜀小果V6.其它",叙永电视台
 https://live.goodiptv.club/api/sxg.php?id=xyxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/叙州新闻综合.png" group-title="🇨🇳蜀小果V6.其他",叙州新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/叙州新闻综合.png" group-title="🇨🇳蜀小果V6.其它",叙州新闻综合
 https://live.goodiptv.club/api/sxg.php?id=ybx_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宣汉综合.png" group-title="🇨🇳蜀小果V6.其他",宣汉综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宣汉综合.png" group-title="🇨🇳蜀小果V6.其它",宣汉综合
 https://live.goodiptv.club/api/sxg.php?id=xhxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雅安公共.png" group-title="🇨🇳蜀小果V6.其他",雅安公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雅安公共.png" group-title="🇨🇳蜀小果V6.其它",雅安公共
 https://live.goodiptv.club/api/sxg.php?id=yagg_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雅安新闻综合.png" group-title="🇨🇳蜀小果V6.其他",雅安新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雅安新闻综合.png" group-title="🇨🇳蜀小果V6.其它",雅安新闻综合
 https://live.goodiptv.club/api/sxg.php?id=yazh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雅安雨城.png" group-title="🇨🇳蜀小果V6.其他",雅安雨城
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雅安雨城.png" group-title="🇨🇳蜀小果V6.其它",雅安雨城
 https://live.goodiptv.club/api/sxg.php?id=ycpd_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/盐边电视台.png" group-title="🇨🇳蜀小果V6.其他",盐边电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/盐边电视台.png" group-title="🇨🇳蜀小果V6.其它",盐边电视台
 https://live.goodiptv.club/api/sxg.php?id=ybtgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/盐亭1.png" group-title="🇨🇳蜀小果V6.其他",盐亭1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/盐亭1.png" group-title="🇨🇳蜀小果V6.其它",盐亭1
 https://live.goodiptv.club/api/sxg.php?id=ytzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雁江.png" group-title="🇨🇳蜀小果V6.其他",雁江
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/雁江.png" group-title="🇨🇳蜀小果V6.其它",雁江
 https://live.goodiptv.club/api/sxg.php?id=yjxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/仪陇新闻综合.png" group-title="🇨🇳蜀小果V6.其他",仪陇新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/仪陇新闻综合.png" group-title="🇨🇳蜀小果V6.其它",仪陇新闻综合
 https://live.goodiptv.club/api/sxg.php?id=ylxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宜宾公共.png" group-title="🇨🇳蜀小果V6.其他",宜宾公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宜宾公共.png" group-title="🇨🇳蜀小果V6.其它",宜宾公共
 https://live.goodiptv.club/api/sxg.php?id=ybetH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宜宾新闻综合.png" group-title="🇨🇳蜀小果V6.其他",宜宾新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宜宾新闻综合.png" group-title="🇨🇳蜀小果V6.其它",宜宾新闻综合
 https://live.goodiptv.club/api/sxg.php?id=ybytH264_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/营山.png" group-title="🇨🇳蜀小果V6.其他",营山
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/营山.png" group-title="🇨🇳蜀小果V6.其它",营山
 https://live.goodiptv.club/api/sxg.php?id=ysxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/越西综合.png" group-title="🇨🇳蜀小果V6.其他",越西综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/越西综合.png" group-title="🇨🇳蜀小果V6.其它",越西综合
 https://live.goodiptv.club/api/sxg.php?id=yxt_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/岳池.png" group-title="🇨🇳蜀小果V6.其他",岳池
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/岳池.png" group-title="🇨🇳蜀小果V6.其它",岳池
 https://live.goodiptv.club/api/sxg.php?id=ycxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/昭化综合.png" group-title="🇨🇳蜀小果V6.其他",昭化综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/昭化综合.png" group-title="🇨🇳蜀小果V6.其它",昭化综合
 https://live.goodiptv.club/api/sxg.php?id=zhxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中江新闻综合.png" group-title="🇨🇳蜀小果V6.其他",中江新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中江新闻综合.png" group-title="🇨🇳蜀小果V6.其它",中江新闻综合
 https://live.goodiptv.club/api/sxg.php?id=zjxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/资阳新闻综合.png" group-title="🇨🇳蜀小果V6.其他",资阳新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/资阳新闻综合.png" group-title="🇨🇳蜀小果V6.其它",资阳新闻综合
 https://live.goodiptv.club/api/sxg.php?id=zyxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/资中综合.png" group-title="🇨🇳蜀小果V6.其他",资中综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/资中综合.png" group-title="🇨🇳蜀小果V6.其它",资中综合
 https://live.goodiptv.club/api/sxg.php?id=zzzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/自贡文化生活.png" group-title="🇨🇳蜀小果V6.其他",自贡文化生活
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/自贡文化生活.png" group-title="🇨🇳蜀小果V6.其它",自贡文化生活
 https://live.goodiptv.club/api/sxg.php?id=zggg_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/自贡综合.png" group-title="🇨🇳蜀小果V6.其他",自贡综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/自贡综合.png" group-title="🇨🇳蜀小果V6.其它",自贡综合
 https://live.goodiptv.club/api/sxg.php?id=zgxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/郫县新闻综合.png" group-title="🇨🇳蜀小果V6.其他",郫县新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/郫县新闻综合.png" group-title="🇨🇳蜀小果V6.其它",郫县新闻综合
 https://live.goodiptv.club/api/sxg.php?id=pxds1_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荥经电视台.png" group-title="🇨🇳蜀小果V6.其他",荥经电视台
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/荥经电视台.png" group-title="🇨🇳蜀小果V6.其它",荥经电视台
 https://live.goodiptv.club/api/sxg.php?id=xjdst_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阆中综合.png" group-title="🇨🇳蜀小果V6.其他",阆中综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/阆中综合.png" group-title="🇨🇳蜀小果V6.其它",阆中综合
 https://live.goodiptv.club/api/sxg.php?id=lzxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沐川综合.png" group-title="🇨🇳蜀小果V6.其他",沐川综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/沐川综合.png" group-title="🇨🇳蜀小果V6.其它",沐川综合
 https://live.goodiptv.club/api/sxg.php?id=mcxw_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸定综合.png" group-title="🇨🇳蜀小果V6.其他",泸定综合频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸定综合.png" group-title="🇨🇳蜀小果V6.其它",泸定综合频道
 https://live.goodiptv.club/api/sxg.php?id=ldxw_4000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸县综合.png" group-title="🇨🇳蜀小果V6.其他",泸县综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸县综合.png" group-title="🇨🇳蜀小果V6.其它",泸县综合
 https://live.goodiptv.club/api/sxg.php?id=lxxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸州公共.png" group-title="🇨🇳蜀小果V6.其他",泸州公共
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泸州公共.png" group-title="🇨🇳蜀小果V6.其它",泸州公共
 https://live.goodiptv.club/api/sxg.php?id=lzgg_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珙县新闻.png" group-title="🇨🇳蜀小果V6.其他",珙县新闻
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/珙县新闻.png" group-title="🇨🇳蜀小果V6.其它",珙县新闻
 https://live.goodiptv.club/api/sxg.php?id=gxzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梓潼综合.png" group-title="🇨🇳蜀小果V6.其他",梓潼综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/梓潼综合.png" group-title="🇨🇳蜀小果V6.其它",梓潼综合
 https://live.goodiptv.club/api/sxg.php?id=ztgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/犍为新闻综合.png" group-title="🇨🇳蜀小果V6.其他",犍为新闻综合
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/犍为新闻综合.png" group-title="🇨🇳蜀小果V6.其它",犍为新闻综合
 https://live.goodiptv.club/api/sxg.php?id=qwxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/筠连TV.png" group-title="🇨🇳蜀小果V6.其他",筠连TV
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/筠连TV.png" group-title="🇨🇳蜀小果V6.其它",筠连TV
 https://live.goodiptv.club/api/sxg.php?id=ylyt_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="🇨🇳蜀小果V6.央视“,CGTN-俄语
 https://live.goodiptv.club/api/sxg.php?id=ey_2000
