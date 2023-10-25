@@ -3228,6 +3228,229 @@ http://mqiptv.com:8014/ch/xjws/mqlive.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="🇨🇳央视&卫视V4",西藏卫视
 http://mqiptv.com:8014/ch/xzws/mqlive.m3u8
 
+#EXTINF:-1 ---------------------------------------分割线"酒店V4"---------------------------------------------------------------
+#EXTM3U
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="酒店V4.央视",CCTV1高清
+http://180.142.220.22:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="酒店V4.央视",CCTV2高清
+http://180.142.220.22:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="酒店V4.央视",CCTV3高清
+http://180.142.220.22:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="酒店V4.央视",CCTV4-国际
+http://180.142.220.22:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="酒店V4.央视",CCTV5高清
+http://180.142.220.22:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="酒店V4.央视",CCTV5+高清
+http://180.142.220.22:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="酒店V4.央视",CCTV6高清
+http://180.142.220.22:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="酒店V4.央视",CCTV7-军农
+http://180.142.220.22:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="酒店V4.央视",CCTV8高清
+http://180.142.220.22:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="酒店V4.央视",CCTV9高清
+http://180.142.220.22:8181/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="酒店V4.央视",CCTV10高清
+http://180.142.220.22:8181/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="酒店V4.央视",CCTV11高清
+http://180.142.220.22:8181/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="酒店V4.央视",CCTV12高清
+http://180.142.220.22:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="酒店V4.央视",CCTV13高清
+http://180.142.220.22:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="酒店V4.央视",CCTV14高清
+http://180.142.220.22:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="酒店V4.央视",CCTV15高清
+http://180.142.220.22:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="酒店V4.央视",CCTV17高清
+http://180.142.220.22:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="珠江" tvg-name="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="酒店V4.央视",珠江台高清电信
+http://180.142.220.22:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="酒店V4.央视",广东体育广电
+http://180.142.220.22:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东科教高清电信" tvg-name="广东科教高清电信" tvg-logo="https://epg.112114.xyz/logo/广东科教高清电信.png" group-title="酒店V4.央视",广东科教高清电信
+http://180.142.220.22:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="岭南戏曲高清dx" tvg-name="岭南戏曲高清dx" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲高清DX.png" group-title="酒店V4.央视",岭南戏曲高清dx
+http://180.142.220.22:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="南方卫视" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="酒店V4.央视",南方卫视高清dx
+http://180.142.220.22:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="酒店V4.央视",广东嘉佳卡通dx
+http://180.142.220.22:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="酒店V4.央视",广东新闻高清dx
+http://180.142.220.22:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东公共" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="酒店V4.央视",广东公共高清dx
+http://180.142.220.22:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="酒店V4.央视",广东影视高清dx
+http://180.142.220.22:8181/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="酒店V4.央视",广东少儿高清dx
+http://180.142.220.22:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="酒店V4.央视",广东体育-高清
+http://180.142.220.22:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="酒店V4.央视",广西卫视高清
+http://180.142.220.22:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="酒店V4.央视",广东卫视高清
+http://180.142.220.22:8181/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="酒店V4.央视",东方卫视高清
+http://180.142.220.22:8181/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="酒店V4.央视",深圳卫视高清LT
+http://180.142.220.22:8181/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="酒店V4.央视",天津卫视高清LT
+http://180.142.220.22:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="酒店V4.央视",湖北卫视高清LT
+http://180.142.220.22:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="酒店V4.央视",山东卫视高清LT
+http://180.142.220.22:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="酒店V4.央视",黑龙江卫视高清
+http://180.142.220.22:8181/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="酒店V4.央视",河北卫视高清
+http://180.142.220.22:8181/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="酒店V4.央视",贵州卫视高清
+http://180.142.220.22:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="酒店V4.央视",东南卫视高清
+http://180.142.220.22:8181/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="酒店V4.央视",辽宁卫视高清-lt
+http://180.142.220.22:8181/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="酒店V4.央视",安徽卫视高清-lt
+http://180.142.220.22:8181/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="酒店V4.央视",四川卫视高清
+http://180.142.220.22:8181/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" tvg-logo="https://epg.112114.xyz/logo/广西综艺旅游.png" group-title="酒店V4.央视",广西综艺高清
+http://180.142.220.22:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="酒店V4.央视",重庆卫视高清
+http://180.142.220.22:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="酒店V4.央视",浙江卫视高清
+http://180.142.220.22:8181/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="酒店V4.央视",湖南卫视高清
+http://180.142.220.22:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="广西都市" tvg-name="广西都市" tvg-logo="https://epg.112114.xyz/logo/广西都市.png" group-title="酒店V4.央视",广西都市高清
+http://180.142.220.22:8181/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="https://epg.112114.xyz/logo/广西新闻.png" group-title="酒店V4.央视",广西新闻高清
+http://180.142.220.22:8181/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="酒店V4.央视",江苏卫视高清
+http://180.142.220.22:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="酒店V4.央视",北京卫视高清
+http://180.142.220.22:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="酒店V4.央视",河南卫视高清
+http://180.142.220.22:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="酒店V4.央视",江西卫视高清
+http://180.142.220.22:8181/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="酒店V4.央视",甘肃卫视高清
+http://180.142.220.22:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="中国教育一套高清" tvg-name="中国教育一套高清" tvg-logo="https://epg.112114.xyz/logo/中国教育一套.png" group-title="酒店V4.央视",中国教育一套高清
+http://180.142.220.22:8181/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="酒店V4.央视",上海纪实高清
+http://180.142.220.22:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="酒店V4.央视",吉林卫视高清
+http://180.142.220.22:8181/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="珠江" tvg-name="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="酒店V4.央视",珠江台高清-LT
+http://180.142.220.22:8181/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="酒店V4.央视",动作电影高清
+http://180.142.220.22:8181/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="酒店V4.央视",CHC高清电影
+http://180.142.220.22:8181/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="爱上4K-g" tvg-name="爱上4K-g" tvg-logo="https://epg.112114.xyz/logo/爱上4KG.png" group-title="酒店V4.央视",爱上4K-g
+http://180.142.220.22:8181/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="茂名综合高清-g" tvg-name="茂名综合高清-g" tvg-logo="https://epg.112114.xyz/logo/茂名综合高清G.png" group-title="酒店V4.央视",茂名综合高清-g
+http://180.142.220.22:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="茂名公共高清-g" tvg-name="茂名公共高清-g" tvg-logo="https://epg.112114.xyz/logo/茂名公共高清G.png" group-title="酒店V4.央视",茂名公共高清-g
+http://180.142.220.22:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="酒店V4.央视",海南卫视高清-g
+http://180.142.220.22:8181/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="珠江" tvg-name="珠江" tvg-logo="https://epg.112114.xyz/logo/珠江.png" group-title="酒店V4.央视",XF本港台（珠江）
+http://180.142.220.22:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF牛哥台" tvg-name="XF牛哥台" tvg-logo="https://epg.112114.xyz/logo/XF牛哥台.png" group-title="酒店V4.央视",XF牛哥台
+http://180.142.220.22:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF有线电的高娱乐1" tvg-name="XF有线电的高娱乐1" tvg-logo="https://epg.112114.xyz/logo/XF有线电的高娱乐1.png" group-title="酒店V4.央视",XF有线电的高娱乐1
+http://180.142.220.22:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF有线电视娱乐2" tvg-name="XF有线电视娱乐2" tvg-logo="https://epg.112114.xyz/logo/XF有线电视娱乐2.png" group-title="酒店V4.央视",XF有线电视娱乐2
+http://180.142.220.22:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF玉林台" tvg-name="XF玉林台" tvg-logo="https://epg.112114.xyz/logo/XF玉林台.png" group-title="酒店V4.央视",XF玉林台
+http://180.142.220.22:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF北流台" tvg-name="XF北流台" tvg-logo="https://epg.112114.xyz/logo/XF北流台.png" group-title="酒店V4.央视",XF北流台
+http://180.142.220.22:8181/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="酒店V4.央视",早期教育高清-g
+http://180.142.220.22:8181/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF有线电视娱乐3" tvg-name="XF有线电视娱乐3" tvg-logo="https://epg.112114.xyz/logo/XF有线电视娱乐3.png" group-title="酒店V4.央视",XF有线电视娱乐3
+http://180.142.220.22:8181/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF有线电影" tvg-name="XF有线电影" tvg-logo="https://epg.112114.xyz/logo/XF有线电影.png" group-title="酒店V4.央视",XF有线电影
+http://180.142.220.22:8181/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="酒店V4.央视",XF凤凰资讯高清
+http://180.142.220.22:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="酒店V4.央视",XF凤凰中文高清
+http://180.142.220.22:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="酒店V4.央视",XF凤凰香港高清
+http://180.142.220.22:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF星空卫视" tvg-name="XF星空卫视" tvg-logo="https://epg.112114.xyz/logo/XF星空卫视.png" group-title="酒店V4.央视",XF星空卫视
+http://180.142.220.22:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="XF广州台" tvg-name="XF广州台" tvg-logo="https://epg.112114.xyz/logo/XF广州台.png" group-title="酒店V4.央视",XF广州台
+http://180.142.220.22:8181/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="酒店V4.央视",云南卫视高清-g
+http://180.142.220.22:8181/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="CGTN高清-g" tvg-name="CGTN高清-g" tvg-logo="https://epg.112114.xyz/logo/CGTN高清G.png" group-title="酒店V4.央视",CGTN高清-g
+http://180.142.220.22:8181/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="酒店V4.央视",快乐垂钓-高清
+http://180.142.220.22:8181/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="酒店V4.央视",茶频道-高清
+http://180.142.220.22:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="酒店V4.央视",兵器科技-高清
+http://180.142.220.22:8181/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.112114.xyz/logo/江西电视指南.png" group-title="酒店V4.央视",电视指南-高清
+http://180.142.220.22:8181/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="酒店V4.央视",风云足球-高清
+http://180.142.220.22:8181/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="酒店V4.央视",央视台球-高清
+http://180.142.220.22:8181/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="酒店V4.央视",高尔夫网球-高清
+http://180.142.220.22:8181/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="酒店V4.央视",女性时尚-高清
+http://180.142.220.22:8181/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="酒店V4.央视",世界地理-高清
+http://180.142.220.22:8181/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="酒店V4.央视",怀旧剧场-高清
+http://180.142.220.22:8181/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="酒店V4.央视",风云剧场-高清
+http://180.142.220.22:8181/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="央视精品" tvg-name="央视精品" tvg-logo="https://epg.112114.xyz/logo/央视精品.png" group-title="酒店V4.央视",央视精品-高清
+http://180.142.220.22:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="酒店V4.央视",第一剧场-高清
+http://180.142.220.22:8181/tsfile/live/1108_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="中甲联赛-高清" tvg-name="中甲联赛-高清" tvg-logo="https://epg.112114.xyz/logo/中甲联赛.png" group-title="酒店V4.央视",中甲联赛-高清
+http://180.142.220.22:8181/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="酒店V4.央视",风云音乐-高清
+http://180.142.220.22:8181/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="酒店V4.央视",深圳电视剧-高清
+http://180.142.220.22:8181/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="酒店V4.央视",少儿动画
+http://180.142.220.22:8181/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="北京卡酷" tvg-name="北京卡酷" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png" group-title="酒店V4.央视",北京卡酷
+http://180.142.220.22:8181/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="酒店V4.央视",金鹰卡通
+http://180.142.220.22:8181/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="酒店V4.央视",炫动卡通
+http://180.142.220.22:8181/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="中国足协杯" tvg-name="中国足协杯" tvg-logo="https://epg.112114.xyz/logo/中国足协杯.png" group-title="酒店V4.央视",中国足协杯
+http://180.142.220.22:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="体育赛事高清" tvg-name="体育赛事高清" tvg-logo="https://epg.112114.xyz/logo/体育赛事.png" group-title="酒店V4.央视",体育赛事高清
+http://180.142.220.22:8181/tsfile/live/1061_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="酒店V4.央视",先锋乒羽
+http://180.142.220.22:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="酒店V4.央视",新动漫
+http://180.142.220.22:8181/tsfile/live/1063_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="酒店V4.央视",家庭影院高清
+http://180.142.220.22:8181/tsfile/live/1056_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="酒店V4.央视",内蒙古卫视
+http://180.142.220.22:8181/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="广西影视" tvg-name="广西影视" tvg-logo="https://epg.112114.xyz/logo/广西影视.png" group-title="酒店V4.央视",广西影视高清
+http://180.142.220.22:8181/tsfile/live/1054_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="广西科技" tvg-name="广西科技" tvg-logo="https://epg.112114.xyz/logo/广西科技.png" group-title="酒店V4.央视",广西科技
+http://180.142.220.22:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="中国气象" tvg-name="中国气象" tvg-logo="https://epg.112114.xyz/logo/中国气象.png" group-title="酒店V4.央视",中国气象
+http://180.142.220.22:8181/tsfile/live/1137_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="酒店V4.央视",西藏卫视
+http://180.142.220.22:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="酒店V4.央视",新疆卫视
+http://180.142.220.22:8181/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 #EXTINF:-1 ---------------------------------------分割线"测试频道"---------------------------------------------------------------
 #EXTM3U
