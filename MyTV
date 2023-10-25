@@ -3230,6 +3230,23 @@ http://mqiptv.com:8014/ch/xzws/mqlive.m3u8
 
 
 #EXTINF:-1 ---------------------------------------分割线"测试频道"---------------------------------------------------------------
+#EXTM3U
+#EXTINF:-1 group-title="测试频道",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="测试频道",CNN News
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="测试频道",News Max
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="测试频道",半岛电视
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="测试频道",朝鲜中央台
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="测试频道",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="测试频道",韩·BBS佛教
