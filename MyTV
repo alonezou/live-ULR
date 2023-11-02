@@ -1524,7 +1524,7 @@ http://61.244.22.5/ch2/ch2.live/index.m3u8
 #EXTINF:-1,tvg-id="澳视葡文.720" tvg-name="澳视葡文.720" tvg-logo="https://epg.112114.xyz/logo/澳视葡文.png" group-title="🇨🇳港澳台常用V4",澳视葡文.720
 http://61.244.22.5/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🇨🇳港澳台常用V4",TVBS
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+http://ceshi.huanqiuzhibo.cn/accv.php?id=tvbs
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🇨🇳港澳台常用V4",TVBS
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🇨🇳港澳台常用V4",TVBS
