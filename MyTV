@@ -1754,9 +1754,8 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳Stream港澳台V4"---------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1 tvg-id="EPG" tvg-name="EPG(電子節目單)" tvg-logo="https://www.stream-link.org/tv_logo/stream_link_logo.png" group-title="SL",EPG下載(https://www.stream-link.org/epg/guide.xml)
-http://www.stream-link.org/epg/guide.xml
-#EXTINF:-1 tvg-id="FoodNetworkAsia" tvg-name="測試01" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title=""🇨🇳Stream港澳台V4"",Asia Food Network(測試)
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,http://www.stream-link.org/epg/guide.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
+#EXTINF:-1 tvg-id="FoodNetworkAsia" tvg-name="測試01" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title=""🇨🇳Stream港澳台V4",Asia Food Network(測試)
 https://sc2022.stream-link.org/tv2306.php?id=c01
 #EXTINF:-1 tvg-id="CartoonNetworkAsia" tvg-name="測試02" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="🇨🇳Stream港澳台V4",Cartoon Network(測試)
 https://sc2022.stream-link.org/tv2306.php?id=c02
