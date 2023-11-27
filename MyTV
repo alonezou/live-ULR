@@ -1171,6 +1171,8 @@ http://159.75.85.63:8765/xxtv8k.php
 http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1,tvg-id="8K测试 48M4320" tvg-name="8K测试 48M4320" tvg-logo="https://epg.112114.xyz/logo/8K测试.png" group-title="🇨🇳4K/8K",8K测试 48M4320
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="8K UHD" tvg-name="8K UHD" tvg-logo="" group-title="🇨🇳4K/8K",8K UHD
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1271963736_932867955/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1668604656&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="🇨🇳4K/8K",CCTV16-4K 18M2160
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="🇨🇳4K/8K",CCTV16-4K 25M2160
@@ -1245,8 +1247,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/o
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱上4K " tvg-name="爱上4K " tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="🇨🇳4K/8K",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-name="芒果娱乐4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="🇨🇳4K/8K",芒果娱乐4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 
 #EXTINF:-1,tvg-id="江苏移动4K影视" tvg-name="江苏移动4K影视" tvg-logo="https://epg.112114.xyz/logo/江苏移动4K影视.png" group-title="🇨🇳4K/8K",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
@@ -1266,6 +1266,20 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
+http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
+http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230974/1.m3u8
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
+http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1,tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="🇨🇳4K/8K",4K电影
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
+
+
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳🇭🇰香港"---------------------------------------------------------------
 
@@ -2275,10 +2289,17 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw560834707_747490476/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="🇨🇳黑莓",黑莓动画 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1756633734_-1487356125/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="🇨🇳黑莓",黑莓动画
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="🇨🇳黑莓",黑莓电影 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="🇨🇳黑莓",黑莓电影 4M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="🇨🇳黑莓",黑莓电影 
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1,tvg-id="黑莓电竞" tvg-name="黑莓电竞" tvg-logo="https://epg.112114.xyz/logo/黑莓电竞.png" group-title="🇨🇳黑莓",黑莓电竞
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
+
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳咪咕系列"---------------------------------------------------------------
 
