@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EPG" tvg-name="EPG(電子節目單)" tvg-logo="https://www.stream-link.org/tv_logo/stream_link_logo.png" group-title="SL",EPG下載(https://www.stream-link.org/epg/guide.xml)
-http://www.stream-link.org/epg/guide.xml
-#EXTINF:-1 tvg-id="FoodNetworkAsia" tvg-name="測試01" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="Astro",Asia Food Network(測試)
+##http://www.stream-link.org/epg/guide.xml
+#EXTINF:-1 tvg-id="CartoonNetworkAsia" tvg-name="測試01" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="Astro",Cartoon Network(測試)
 https://sc2022.stream-link.org/tv2306.php?id=c01
-#EXTINF:-1 tvg-id="CartoonNetworkAsia" tvg-name="測試02" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="Astro",Cartoon Network(測試)
+#EXTINF:-1 tvg-id="9999" tvg-name="測試02" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="測試",測試02
 https://sc2022.stream-link.org/tv2306.php?id=c02
+#EXTINF:-1 tvg-id="9999" tvg-name="測試03" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="測試",測試03
+https://sc2022.stream-link.org/tv2306.php?id=c03
+#EXTINF:-1 tvg-id="9999" tvg-name="測試04" tvg-logo="https://www.stream-link.org/tv_logo/test.png" group-title="測試",測試04
+https://sc2022.stream-link.org/tv2306.php?id=c04
 #EXTINF:-1 tvg-id="Jade.my" tvg-name="華麗(翡翠台)" tvg-logo="https://www.stream-link.org/tv_logo/astro_jade.png" group-title="Astro",華麗(翡翠台)
 https://sc2022.stream-link.org/tv2306.php?id=h00
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.stream-link.org/tv_logo/tvb_jade.png" group-title="TVB",翡翠台
