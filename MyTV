@@ -1098,42 +1098,7 @@ http://tv.328326.com/iptv/cd.php?id=gdzy
 http://tv.328326.com/iptv/cd.php?id=gdwh  
 
 
-#EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="🇨🇳福建️",福建综合 V4
-https://cntv.sbs/tv?auth=231110&id=fjzh
-#EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="🇨🇳福建️",福建综合 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjzhhd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="🇨🇳福建️",福建新闻 V4
-https://cntv.sbs/tv?auth=231110&id=fjxw
-#EXTINF:-1,tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="🇨🇳福建️",福建新闻 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjxwhd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="🇨🇳福建️",福建电视剧 V4
-https://cntv.sbs/tv?auth=231110&id=fjdsj
-#EXTINF:-1,tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="🇨🇳福建️",福建电视剧 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjdsjhd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="🇨🇳福建️",福建文体 V4
-https://cntv.sbs/tv?auth=231110&id=fjwt
-#EXTINF:-1,tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="🇨🇳福建️",福建文体 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjtyhd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="🇨🇳福建️",福建少儿 V4
-https://cntv.sbs/tv?auth=231110&id=fjse
-#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="🇨🇳福建️",福建少儿 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjsehd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="🇨🇳福建️",福建旅游 V4
-https://cntv.sbs/tv?auth=231110&id=fjly
-#EXTINF:-1,tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="🇨🇳福建️",福建旅游 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjlyhd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="🇨🇳福建️",福建经济 V4
-https://cntv.sbs/tv?auth=231110&id=fjjj
-#EXTINF:-1,tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="🇨🇳福建️",福建经济 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjjjshhd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="🇨🇳福建️",福建公共 V4
-https://cntv.sbs/tv?auth=231110&id=fjgg
-#EXTINF:-1,tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="🇨🇳福建️",福建公共 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjgghd4m/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="🇨🇳福建️",福建教育 V4
-https://cntv.sbs/tv?auth=231110&id=fjjy
-#EXTINF:-1,tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="🇨🇳福建️",福建教育 V4
-http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/fjjypdhd4m/4000000/mnf.m3u8
+
 
 #EXTINF:-1,tvg-id="新海南" tvg-name="新海南" tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="🇨🇳海南",新海南 V4
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
@@ -1163,8 +1128,6 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳4K/8K"---------------------------------------------------------------
 #EXTM3U
-#EXTINF:-1,tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="🇨🇳4K/8K",CCTV8K
-http://159.75.85.63:8765/xxtv8k.php
 #EXTINF:-1,tvg-name="CCTV8K-50FPS" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="🇨🇳4K/8K",CCTV8K-50FPS
 http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1,tvg-id="8K测试 48M4320" tvg-name="8K测试 48M4320" tvg-logo="https://epg.112114.xyz/logo/8K测试.png" group-title="🇨🇳4K/8K",8K测试 48M4320
@@ -2914,14 +2877,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3
 #EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="🇨🇳陕西V6.其它",SiTV都市剧场 8M1080
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 ---------------------------------------分割线"🇨🇳蜀小果V6"---------------------------------------------------------------
-
-
-#EXTINF:-1 ---------------------------------------分割线"🇨🇳央视&卫视V4"---------------------------------------------------------------
-
-
-#EXTINF:-1 ---------------------------------------分割线"酒店V4"---------------------------------------------------------------
-
 
 #EXTINF:-1 ---------------------------------------分割线"测试频道"---------------------------------------------------------------
 #EXTM3U
@@ -3621,9 +3576,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="IPV6测试2.其他",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-
-
-#EXTINF:-1 ---------------------------------------分割线"浙江联通V4"---------------------------------------------------------------
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳网络广播"---------------------------------------------------------------
 
