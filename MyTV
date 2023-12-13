@@ -359,11 +359,11 @@ https://cntv.sbs/tv/v6.php?id=fxzl_2000
 https://cntv.sbs/tv/v6.php?id=lgs_2000
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视",中学生
 https://cntv.sbs/tv/v6.php?id=zxs
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="🇨🇳教育频道",中国教育1台
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道",中国教育1台
 https://cntv.sbs/tv/v6.php?id=CETV-1H264
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="🇨🇳教育频道",中国教育4台
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育频道",中国教育4台
 https://cntv.sbs/tv/v6.php?id=CETV-4H264_2000
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="🇨🇳其它频道",中国天气
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其它频道",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 
@@ -945,7 +945,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1,tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="浙江",浙江少儿 
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="🇨🇳浙江" group-title="浙江",浙江少儿 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="浙江" group-title="浙江",浙江少儿 
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1,tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/b500dac5d5af1dae3a3eceaf2e165bd0.png" group-title="浙江",浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
