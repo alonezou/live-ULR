@@ -359,9 +359,9 @@ https://cntv.sbs/tv/v6.php?id=fxzl_2000
 https://cntv.sbs/tv/v6.php?id=lgs_2000
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视",中学生
 https://cntv.sbs/tv/v6.php?id=zxs
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道",中国教育1台
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="频道",中国1台
 https://cntv.sbs/tv/v6.php?id=CETV-1H264
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育频道",中国教育4台
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="频道",中国4台
 https://cntv.sbs/tv/v6.php?id=CETV-4H264_2000
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其它频道",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
@@ -783,7 +783,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001016/1.m3u8
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001015/1.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海教育电视台.png" group-title="上海",上海教育电视台
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海电视台.png" group-title="上海",上海电视台
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海外语频道.png" group-title="上海",上海外语频道
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
@@ -815,7 +815,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海教育电视台.png" group-title="上海",教育电视台
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海电视台.png" group-title="上海",电视台
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001268/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上海",七彩戏剧
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8?
@@ -920,7 +920,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2442317445_-887920187
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2442556126_688852038/ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8?icpid=3&RTS=1674369673&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/睢宁三农.png" group-title="江苏",睢宁三农 2.5M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw334055523_1062550904/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8?icpid=3&RTS=1674380449&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/睢宁生活教育.png" group-title="江苏",睢宁生活教育 2.5M1080
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/睢宁生活.png" group-title="江苏",睢宁生活 2.5M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw334174254_793019476/ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8?icpid=3&RTS=1674380449&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/睢宁综合.png" group-title="江苏",睢宁综合 2.5M1080
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw334305410_817823159/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8?icpid=3&RTS=1674380449&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
@@ -995,9 +995,9 @@ http://play-a2.quklive.com/live/1668501533304136.m3u8
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
 
 
-#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波教育科技  
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波科技  
 http://live1.cloud.nbtv.cn/85c706b2820d454495352f9f3e77f86a/h264_500k_ts/index.m3u8?type=fiv2hls_m3u8
-#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波教育科技  
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波科技  
 http://live1.cloud.nbtv.cn/live/85c706b2820d454495352f9f3e77f86af?fmt=h264_500k_flv&trs=hls_ts
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/奉化新闻综合.png" group-title="浙江",奉化新闻综合 
 http://live1.fhtv.net.cn/zhzb/sd/live.m3u8
@@ -2400,7 +2400,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225718/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="IPV6测试.其他",黑莓电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/山东教育.png" group-title="IPV6测试.山东",山东教育
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/山东.png" group-title="IPV6测试.山东",山东
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225719/2/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="IPV6测试.其他",哈哈炫动
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225720/2/index.m3u8
@@ -2552,11 +2552,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="IPV6测试2.卫视",厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="IPV6测试2.其他",中国教育1台
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中国1台.png" group-title="IPV6测试2.其他",中国1台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="IPV6测试2.其他",中国教育2台
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中国2台.png" group-title="IPV6测试2.其他",中国2台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="IPV6测试2.其他",中国教育4台
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中国4台.png" group-title="IPV6测试2.其他",中国4台
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="IPV6测试2.北京",北京纪实科教
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
@@ -2576,7 +2576,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/第一财*.png" group-title="IPV6测试2.其他",第一财*
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="IPV6测试2.上海",上海教育
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海台.png" group-title="IPV6测试2.上海",上海
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="IPV6测试2.其他",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
