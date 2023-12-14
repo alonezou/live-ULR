@@ -353,17 +353,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视",发现之旅
-https://cntv.sbs/tv/v6.php?id=fxzl_2000
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
-https://cntv.sbs/tv/v6.php?id=lgs_2000
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视",中学生
-https://cntv.sbs/tv/v6.php?id=zxs
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="频道",中国1台
-https://cntv.sbs/tv/v6.php?id=CETV-1H264
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="频道",中国4台
-https://cntv.sbs/tv/v6.php?id=CETV-4H264_2000
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其它频道",中国天气
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 
@@ -797,21 +787,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1558074042_116967467/
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="上海",纪实人文
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001019/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001016/1.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001015/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海电视台.png" group-title="上海",上海电视台
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海外语频道.png" group-title="上海",上海外语频道
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海外语频道.png" group-title="上海",上海外语频道
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001128/1.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001014/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
@@ -819,11 +801,11 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001192/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001192/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001193/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001193/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="上海",金色学堂
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/i1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="上海",法治天地
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="上海",动漫秀场
@@ -833,13 +815,13 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="上海",都市剧场
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海",哈哈炫动
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海电视台.png" group-title="上海",电视台
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001268/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="上海",七彩戏剧
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001318/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/第一财经.png" group-title="上海",SITV第一财经
