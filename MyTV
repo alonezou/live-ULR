@@ -560,6 +560,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1481870012_-150562572
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视 
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视 
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视 
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
@@ -608,6 +610,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1760762625_-423271938/ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8?icpid=3&RTS=1674386171&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1550082591_-594632294/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1674385960&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
@@ -658,6 +662,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw2373527465_-419963710/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1674386783&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1760610571_1986142982/ott.mobaibox.com/PLTV/3/224/3221227521/index.m3u8?icpid=3&RTS=1674386171&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视 
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1751556859_2027091654/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1674386161&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
@@ -704,6 +710,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1932810369_1138674704
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw844466330_-452871666/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1674380959&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw342769965_-1981608007/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
