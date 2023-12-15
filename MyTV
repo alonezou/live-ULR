@@ -1055,6 +1055,8 @@ http://220.231.188.200:8089/hls/27/index.m3u8
 http://220.231.188.200:8089/hls/29/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江 
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江 
+http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共频道  
 http://220.231.188.200:8089/hls/26/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="广东",广东4K超高清 
