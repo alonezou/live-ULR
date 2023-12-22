@@ -1307,6 +1307,54 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?/TVOD/.smil
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231003/1.m3u8
+#EXTM3U
+#EXTINF:-1,tvg-id="TVB 1" tvg-name="TVB 1" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳台",TVB 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+#EXTINF:-1,tvg-id="TVB 1" tvg-name="TVB 1" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳台",TVB 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",TVB 翡翠台
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",TVB 翡翠台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+#EXTINF:-1,tvg-id="TVB 金砖" tvg-name="TVB 金砖" tvg-logo="https://epg.112114.xyz/logo/TVB金砖.png" group-title="港澳台",TVB 金砖
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvg-id="TVB经典台" tvg-name="TVB经典台" tvg-logo="https://epg.112114.xyz/logo/TVB经典台.png" group-title="港澳台",TVB 经典台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+#EXTINF:-1,tvg-id="TVB经典台" tvg-name="TVB经典台" tvg-logo="https://epg.112114.xyz/logo/TVB经典台.png" group-title="港澳台",TVB 经典台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+#EXTINF:-1,tvg-id="TVB 星河" tvg-name="TVB 星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB 星河
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+#EXTINF:-1,tvg-id="TVB 星河" tvg-name="TVB 星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB 星河
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
+#EXTINF:-1,tvg-id="TVB DRAMA" tvg-name="TVB DRAMA" tvg-logo="https://epg.112114.xyz/logo/TVBDRAMA.png" group-title="港澳台",TVB DRAMA
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
+#EXTINF:-1,tvg-id="TVB 娱乐新闻台" tvg-name="TVB 娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB 娱乐新闻台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+#EXTINF:-1,tvg-id="TVB 娱乐新闻台" tvg-name="TVB 娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB 娱乐新闻台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
+#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="港澳台",TVBS欢乐
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="港澳台",无线财经资讯
+http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+#EXTINF:-1,tvg-id="无线新聞台" tvg-name="无线新聞台" tvg-logo="https://epg.112114.xyz/logo/无线新聞台.png" group-title="港澳台",无线新聞台
+http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass 
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="其他",J2
+http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+#EXTINF:-1,tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="其他",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",FAIRCHILD WEST
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90351
+#EXTINF:-1,tvg-id="FAIRCHILD 2" tvg-name="FAIRCHILD 2" tvg-logo="https://epg.112114.xyz/logo/FAIRCHILD2.png" group-title="其他",FAIRCHILD 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
+
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文 
 http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
