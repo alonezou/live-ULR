@@ -1343,7 +1343,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-ttle="台湾",TVBS
-https://epg.pw/stream/927ca42b884ccdc9448f7b613ffa0e2ef255f048800546c412c36a6036e1d861.m3u8
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-ttle="台湾",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-ttle="台湾",TVBS
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-ttle="台湾",TVBS
