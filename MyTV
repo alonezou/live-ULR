@@ -1355,15 +1355,18 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-ttle="台湾",TVBS
 http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-ttle="台湾",TVBS
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS亚洲.png" group-ttle="台湾",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-ttle="台湾",TVBS
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-ttle="台湾",TVBS
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-ttle="台湾",中天新闻
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-ttle="台湾",中天新闻
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
-
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-ttle="台湾",中天新闻
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-ttle="台湾",中天新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 
 #EXTM3U
 #EXTINF:-1,tvg-id="TVB 1" tvg-name="TVB 1" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳台",TVB 1
